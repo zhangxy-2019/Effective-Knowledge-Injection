@@ -1,19 +1,31 @@
-# SELF-TUNING: Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching (ACL 2025 Findings)
+# SELF-TUNING: Instructing LLMs to Effectively Acquire New Knowledge Through Self-Teaching  
+*(ACL 2025 Findings)*  
 
-## Resources
-- **Code**: Training and evaluation scripts are publicly available in this repository.
-- **Data**:
-  - Currently available: Bio-domain dataset
-  - Coming soon: Multi-domain and film-domain datasets
+## Resources  
 
-## Dataset Access
-The source data for `wiki-newpages-2023-qa` is available at:  
-📂 [Hugging Face Dataset Repository](https://huggingface.co/datasets/xyingzhang/wiki-newpages-2023-qa)  
+### Code  
+- Training and evaluation scripts are available in this repository.  
 
-🔜 *`wiki-newpages-2025-qa` will be released soon - stay tuned!*
+### Datasets  
+- **Available now**:  
+  - Bio-domain dataset  
+- **Coming soon**:  
+  - Multi-domain dataset  
+  - Film-domain dataset  
 
-## Citation
-If you find our work useful, please cite our paper:
+## Dataset Access  
+
+### wiki-newpages-2023-qa  
+The source dataset is available at:  
+[Hugging Face Dataset Repository](https://huggingface.co/datasets/xyingzhang/wiki-newpages-2023-qa)  
+
+### wiki-newpages-2025-qa (Upcoming)  
+- Will be regularly updated here:  
+[Google Drive Folder](https://drive.google.com/drive/folders/1TecO8xwrgiUFlZ6InvVj-BsU23_oKtRI?usp=sharing)  
+
+## Citation  
+
+If you find our work useful, please cite our paper:  
 
 ```bibtex
 @article{zhang2024self,
