@@ -19,7 +19,7 @@
 The source dataset is available at:  
 [Hugging Face Dataset Repository](https://huggingface.co/datasets/xyingzhang/wiki-newpages-2023-qa)  
 
-### wiki-newpages-2025-qa (Upcoming)  
+### wiki-newpages-2025-qa
 - Will be regularly updated here:  
 [Google Drive Folder](https://drive.google.com/drive/folders/1TecO8xwrgiUFlZ6InvVj-BsU23_oKtRI?usp=sharing)  
 
