@@ -1,0 +1,640 @@
+{
+  "type": "text_only",
+  "instances": [
+    {
+      "text": "",
+      "output": "<Andrew Turner (rugby union, born 2002)  - Wikipedia> Andrew Turner (born 16 February 2002) is an English rugby union player, currently playing for the and . His preferred position is prop.\nEarly career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lil Tay  - Wikipedia> Tay Tian (born July 29, 2009), known professionally as Lil Tay, is an American-born Canadian internet personality and singer. In 2018, she gained prominence online for a period of three months, proclaiming herself to be the \"youngest flexer of the century\". During her brief career, she posted rap videos on YouTube and Instagram which garnered tens of millions of views. Her career ended in mid-2018, after her father applied to the superior court of Canada for full custody and control of her career. According to court documents, he was abusive and largely an absentee.\nEarly and personal life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Sawyer Gipson-Long  - Wikipedia> Alec Sawyer Gipson-Long (born December 12, 1997) is an American professional baseball pitcher for the Detroit Tigers of Major League Baseball (MLB). He made his MLB debut in 2023.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Philip Barantini  - Wikipedia> Philip Barantini (born 13 July 1980) is a British film and TV director, producer, screenwriter and actor. He is best known for his intense one-shot feature Boiling Point (2021), starring Stephen Graham. \nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Adam Britton  - Wikipedia> Adam Robert Corden Britton (born ) is a British zoologist who in September 2023 was charged with 60 offences relating to sexual abuse and torture of animals and possession of child abuse material. He has pled guilty to the charges.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Braden Layer  - Wikipedia> Braden Layer (born ) is an American college football coach. He is the head football coach for Allegheny College, a position he has held since 2023. He also coached for Austin Peay, Denison, Sewanee, Bowdoin, and Dayton. He played college football for Denison as a quarterback and wide receiver. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Thierry Burkart  - Wikipedia> Thierry Burkart (born 21 August 1975) is a Swiss politician who is leader of the FDP.The Liberals. He is a member of the Council of States.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Yevhen Burlachenko  - Wikipedia> Yevhen Dmytrovych Burlachenko (Ukrainian: \u0404\u0432\u0433\u0435\u043d \u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0438\u0447 \u0411\u0443\u0440\u043b\u0430\u0447\u0435\u043d\u043a\u043e; born on 7 February 1952), is a Russian-born Ukrainian politician who had served as the 4th mayor of Luhansk from 2002 to 2006.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Christina Rosendahl  - Wikipedia> Christina Rosendahl (born 5 January 1971) is a Danish film director. A nominee for several Robert Awards, she is known for her work on the films \"Supervoksen\" (2007), \"The Idealist\" (2015), and \"The Good Traitor\" (2020).\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hamaal De Dhamaal  - Wikipedia> Hamaal De Dhamaal is a 1989 Indian Marathi-language comedy film directed and produced by Purushottam Berde. Bollywood actor Anil Kapoor debuted in Marathi cinema with the film. Laxmikant Berde, Varsha Usgaonkar, Nilu Phule, Shanta Inamdar, Sonali Adhikari also features.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Chennis Berry  - Wikipedia> Chennis Berry Jr. (born ) is an American college football coach. He is the head football coach for Benedict College; a position he has held since 2020. He previously coached for Morris Brown, Kentucky State, Fort Valley State, North Carolina A&amp;T, Morgan State, Howard, and Southern. He played college football for Savannah State as an offensive tackle.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Gregg Nesbitt  - Wikipedia> Gregg Nesbitt (born ) is an American college football coach. He is the head football coach for Truman State University; a position he has held since 2010. He previously was the head football coach for Hannibal High School from 1984 to 1989 and Hickman High School from 1993 to 2005. He also coached for Central Methodist and Central Missouri. He played college football for Truman as a running back.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Helmut Moritz  - Wikipedia> Helmut Moritz (1 November 1933 \u2013 21 October 2022) was an Austrian physical geodesist. He was a member of the Austrian Academy of Sciences and of many other international academies and societies. He became internationally known with a fundamental work on Error propagation in Geodesy. From 1991 to 1995, he was president of the International Union of Geodesy and Geophysics (IUGG).\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mark Maciejewski  - Wikipedia> Mark \"Mac\" Maciejewski (born ) is an American college football coach. He is the head football coach for Shippensburg University of Pennsylvania; a position he has held since 2011. He also coached for James Madison and Saint Francis. He played college football for Shippensburg as a nose guard.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Charles L. Phillips  - Wikipedia> Charles L. Phillips (October 16, 1856 \u2013 March 3, 1937) was a career officer in the United States Army. A veteran of the Spanish\u2013American War and World War I, he was a Field Artillery specialist who joined the Coast Artillery Corps when it was created as a separate branch. Phillips served from 1881 to 1920 and attained the rank of brigadier general.\nPhillips was a native of Gardner, Illinois, and was raised and educated in Waterville, Maine. He attended Colby College from 1874 to 1877, when he began attendance at the United States Military Academy (West Point). He graduated in 1881 and received his commission as a second lieutenant, then served at posts in the western United States, including Fort Canby, Washington and Fort Snelling, Minnesota. When the Coast Artillery Corps was separated from the Field Artillery Branch, Phillips transferred to the Coast Artillery. He commanded Coast Artillery posts on both the Atlantic and Pacific coats of the United States, as well as posts in the Philippines.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<E. Fred Schubert  - Wikipedia> Eric Fred Schubert. is an electrical engineer, researcher, educator, and inventor (born on February 8, 1956, in Stuttgart, Germany) who made technical contributions to semiconductor devices, particularly LEDs. He has authored four books (including a standard textbook on LEDs), 39 U.S. patents, and more than 300 technical papers.\nLife and professional career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Makeen Alikhan  - Wikipedia> Makeen Alikhan (born 10 October 2001) is an English rugby union player who plays for Harlequins in the Premiership as well as playing for Worthing RFC on dual registration.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nathan Saliba  - Wikipedia> Nathan-Dylan Saliba (born February 7, 2004) is a Canadian professional soccer player who plays for Major League Soccer club CF Montr\u00e9al.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Matheus \u00cdndio (footballer, born 1999)  - Wikipedia> Matheus Salgueiro Pains (born 27 August 1999), commonly known as Matheus \u00cdndio, is a Brazilian footballer who plays as a Defensive midfielder for Serbian SuperLiga club Vojvodina, on loan from Primeira Liga club Vit\u00f3ria Guimar\u00e3es.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pan Zhanle  - Wikipedia> Pan Zhanle (, born 4 August 2004) is a Chinese swimmer. He competed in the men's 100-metre freestyle at the 2022 FINA SC World Championships in Melbourne and broke the Asian record in the event. He is also the current Asian record holder in the men's long course 100-metre freestyle.\nIn 2023, \"SwimSwam\" magazine described Pan as being the first freestyle swimmer in history to have all three achievements of reaching sub-22 seconds in the 50 free, a time of under 47 seconds in the 100 free, and also reaching a time of under 1:45 in the 200 free.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<John Welty (American football)  - Wikipedia> John Welty (born ) is an American college football coach. He is the head football coach for Westminster College in Fulton, Missouri, a position he has held since 1999. He also was the head football coach for Illinois Benedictine College\u2014now known as Benedictine University\u2014from 1990 to 1997. He also coached for North Central (IL) and Simpson. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Corey Mylchreest  - Wikipedia> Corey Mylchreest (born 8 May 1998) is an English actor. A graduate of the Royal Academy of Dramatic Art, he is known for his starring role as a fictionalized King George in the Netflix period drama miniseries \"\" (2023).\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mike Babcock (American football)  - Wikipedia> Michael Babcock (born February 13, 1979) is an American college football coach. He is the head football coach for McKendree University; a position he has held since 2013. He also coached for UCLA, Colorado, San Diego, and CSU Pueblo. He played college football for UCLA as a linebacker.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Eleanor Sterling  - Wikipedia> Eleanor Sterling (October 3, 1960 \u2013 February 11, 2023) was an conservationist and biologist. She was the director of the Center for Biodiversity and Conservation at the American Museum of Natural History and also became the director of Hawai\u02bbi Institute of Marine Biology (HIMB) at the University of Hawai\u02bbi M\u0101noa (UHM).\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Madonna Harrington Meyer  - Wikipedia> Madonna Harrington Meyer is an American sociologist, author, and academic. She is a University Professor at Syracuse University, Laura J. and L. Douglas Meredith Professor of Teaching Excellence, and Professor of Sociology at the Maxwell School of Citizenship and Public Affairs. She is a Senior Research Associate at the Center for Policy Research, Faculty Research Affiliate at the Lerner Center, and Faculty Affiliate at the Aging Studies Institute of Syracuse University.\nHarrington Meyer's research interests encompass the fields of old age policies in the United States and the physical, emotional, social and financial impacts of grandparenting among grandparents. Since 2020, she has been working in the area of food insecurity among the elderly in the United States. She has authored and co-authored several books. She is the author of \"Grandmothers at Work: Juggling Families and Jobs\" (2014), which won the Gerontological Society of America's Kalish Book Award. She is also the co-author of \"Grandparenting Children with Disabilities\" (2020) with Ynesse Abdul-Malak, co-editor of \"Grandparenting in the United States\" (2016) with Abdul-Malak, and co-editor of \"Gerontology: Changes, Challenges, and Solutions\" (2016) with Elizabeth Daniele. In addition, she is co-author with Pamela Herd of \"Market Friendly or Family Friendly? The State and Gender Inequality in Old Age\" (2007), which also won the Gerontological Society of America's Kalish Book Award and is editor of \"Care Work: Gender, Labor, and the Welfare State\" (2000).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hern\u00e1n Palma  - Wikipedia> Luis Hugo Hern\u00e1n Palma P\u00e9rez (born November 3, 1958) is a Chilean surgeon and politician, founding member of the Humanist Party of Chile. He is a deputy for the period 2022-2026, after being elected in the 2021 Chilean parliamentary elections.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nelson Lee (raconteur)  - Wikipedia> Nelson Lee was born in Brownsville, Jefferson County, New York, in 1807. He died in poverty in Hammond's Corners in New York, on December 21, 1870. In 1859 an account of his life was published by a group of editors \"not quite in his own words\". Like some other Indian captivity narratives of the 1800s, its \"chief concern, was neither accuracy of sensation nor fidelity to the hard facts of frontier life, but rather the salability of pulp thrillers.\" He tells us that he took part in various campaigns (his name does not appear on the relevant muster rolls) and had dramatic adventures (such as saving his life among the Comanches by the use of a particularly loud alarm watch).\nHe also describes Comanche customs (agriculture and fixed, organized, towns) that had no relation to reality.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nina Einhorn  - Wikipedia> Nina Einhorn n\u00e9e Rajmic (1925\u20132002) was a Jewish Polish-born Swedish physician who conducted research in the field of gynaecological oncology. A survivor from the Warsaw Ghetto, she studied medicine in Warsaw, met her husband to be the physician Jerzy Einhorn and emigrated to Sweden in the late 1940s . In 1964, she was engaged by the Radiumhemmet cancer treatment centre which she headed from 1986. Specializing in research into ovarian cancer, she chaired both the Swedish Ovarian Cancer Study Group and the International Gynecological Cancer Society. Einhorn also supported the Jewish cause, chairing for a time the Israeli institution Keren Hayesod. After she was diagnosed with breast cancer in 1999, she continued to conduct research until her death in May 2002.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Reza Shafiei  - Wikipedia> Reza Shafiei(, born 30 September 1991 in Arak) is an Iranian jiujitsu athlete. He won the Silver medal in combat Style and Bronze medal in Fighting at the 2023Ju-Jitsu Asian Championships in Thailand.He is Member of Iran jiujitsu National Team in 2019 Ju-Jitsu World Championships and 2023Ju-Jitsu World Championships.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mary Silberman  - Wikipedia> Mary Silberman (born July 15th 1997) is a 4.5 point Israeli wheelchair basketball player who plays for the University of Alabama..\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Harold Haulman  - Wikipedia> Harold David Haulman III (born November 28, 1978) is an American serial killer. Originally convicted for the murder of a fellow countryman in Germany in 1999, he was paroled and returned to the United States, where he murdered at least three women in Michigan and Pennsylvania from 2005 to 2020.\nHaulman confessed to all the latter murders and pleaded guilty to all of them, receiving life terms or long sentences for each of them.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kenya Grace  - Wikipedia> Kenya Grace Johnson is a South African-born English musician from Southampton. She is best known for her 2023 single \"Strangers\", which charted at No. 2 on the UK Singles Chart. The Official Charts Company described her voice as a combination of PinkPantheress, Charli XCX, and Piri.\nLife and career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ewa Bartnik  - Wikipedia> Ewa Maria Bartnik, n\u00e9e Balicka (born December 15, 1949 in Warsaw) is a Polish biologist, Professor of Biological Sciences, university lecturer and populariser of science.\nShe studied Biology initially at the University of Warsaw. subsequently obtaining her PhD and habilitation. In 1993 she was appointed Professor of Biological Sciences. She began her professional career at the Department of Genetics of the University of Warsaw, later working at the Institute of Genetics and Biotechnology and at the Institute of Biochemistry and Biophysics of the Polish Academy of Sciences. Her research has dealt with issues in molecular biology and genetics, including studies of mitochondrial DNA. She served as Secretary General of the Polish Genetic Society, became Deputy Chair of the Committee of Human Genetics and Molecular Pathology of the Polish Academy of Sciences and was a member of the Central Commission for Degrees and Titles. She has co-authored biology textbooks for secondary schools and academic textbooks, and was Poland's representative in the Life Sciences expert group of the Programme for International Student Assessment (PISA).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Christian Braswell  - Wikipedia> Christian Braswell (born September 27, 1999) is an American football cornerback for the Jacksonville Jaguars of the National Football League (NFL). He played college football at Temple and Rutgers.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kishmala Talat  - Wikipedia> Kishmala Talat (born 18 June 2002) is a Pakistani sports shooter. She won Pakistan's first Asian Games medal in shooting at the 2022 Asian Games.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dhayan Singh Sheikhupura  - Wikipedia> Raja Dhayan Singh (born 1905) was the last ruler of Sheikhupura State, Pakistan.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lars Larsen (timber merchant)  - Wikipedia> Lars Larsen (17371817) was a Danish timber merchant and ship-owner. He also served as one of the directors of Kj\u00f8benhavns Brandforsikring and the DanishNorwegian Species Bank and as one of Copenhagen's 32 Men. He owned the property Nyhavn 63 as well as the country house S\u00f8holt in \u00d8sterbro. He should not be confused with the somewhat younger ship builder Lars Larsen, namesake of the Lars Larsen House and Larsens Plads.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lucia Cammarano  - Wikipedia> Lucia Cammarano (born 27 July 1992 Benevento) is an Italian rugby union and rugby sevens player.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Helen Fulton  - Wikipedia> Helen Fulton FRSA FSA FLSW is a Professor of Medieval Literature at Bristol University.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Joan Gragg  - Wikipedia> Joan Elisabeth Gragg (born 1943) is an artist and educator from the Cook Islands. Gragg's painting career spans five decades. She founded the Cook Islands' first and only premier art gallery, Beachcomber Contemporary Art (now Bergman Gallery), in 1991. Gragg graduated with a Master of Art and Design degree from Auckland University of Technology in 2010. There was an opportunity for Gragg to work towards a doctorate in art but she has discounted that for the meantime.\nGragg's practice centres on the changes to everyday life in the Cook Islands, exploring changes over the decades, with people drifting further apart with the introduction of new technology such as new forms of transportation as opposed to walking, and single plastic chairs instead of traditional wooden benches. According to Gragg, she aims to showcase the \"joy, camaraderie, love, and all the other great things that happen in a community in the Cook Islands\", and to visually express the humour of the Cook Islands through her art.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<J. P. Mart\u00ednez  - Wikipedia> Julio Pablo Mart\u00ednez S\u00e1nchez (born March 21, 1996) is a Cuban professional baseball outfielder for the Texas Rangers of Major League Baseball (MLB). He made his MLB debut in 2023.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kaitlyn Parcell  - Wikipedia> Kaitlyn Parcell (born September 9, 1997) is an American soccer player who plays in defense for MSV Duisburg in the Women's Bundesliga. Parcell has previously represented Georgetown University.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jaleel McLaughlin  - Wikipedia> Jaleel McLaughlin (born September 13, 2000) is an American football running back for the Denver Broncos of the National Football League (NFL). He played college football at Notre Dame College and Youngstown State and is the NCAA's all-time leading rusher.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Cisco Bradley  - Wikipedia> Cisco Bradley (born October 9, 1976) is an American historian, activist and public intellectual known for his work on music, migration, and cultural production. In 2021, he published \"Universal Tonality: The Life and Music of William Parker\" with Duke University Press after approaching William Parker in 2015 about an interview. Themes in his work center on social resistance through cultural expression, migration and community formation.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Roger Waialae  - Wikipedia> Roger Waialae (born ) is an American college football coach. He is the head football coach for West Liberty University; a position he has held since 2005. He also coached for Dubuque, Bethany (WV), and the M\u00fcnchen Rangers of the German Football League (GFL). He played college football and golf for Dubuque as well as one year of professional football with the M\u00fcnchen Rangers of the GFL.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jim May (chemical engineer)  - Wikipedia> James Richard May (20 July 1934 \u2013 6 June 2023) was an Australian chemical engineer and company director who was the Chief Executive Officer of the Australian Minerals Industry Research Association Limited (AMIRA) between 1968 and 1994. He was also a fellow of a number of chartered institutions and organisations and was on various committees and academic associations and institutes.\nPersonal life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dragana Kosjerina  - Wikipedia> Dragana Kosjerina (, , born August 22, 1987) is a Serbian journalist and TV anchor. She currently works at Radio-television of Serbia.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pierre Choumoff  - Wikipedia> Pierre Choumoff (Russian: \u041f\u0451\u0442\u0440 \u0428\u0443\u043c\u043e\u0432, \"Pyotr Shumov,\" French: Pierre Choumoff, Polish: Piotr Szumov; born 26 March 1872 in Grodno, Russian Empire; died 25 June 1936 in \u0141\u00f3d\u017a, Poland) was a Russian\u2013French photographer and the personal photographer of Auguste Rodin.\nLife and work.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Martin P. Mintchev  - Wikipedia> Martin Pavlov Mintchev (Martin P. Mintchev, in Bulgarian ) is a Bulgarian American engineer and experimental surgeon. He is currently professor, chair of engineering, and director of the engineering instrumentation laboratory at Howard Payne University in Texas, United States, as well as adjunct professor of experimental surgery at the University of Alberta in Edmonton, Canada.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kenny Smith (far-right activist)  - Wikipedia> Kenneth Smith (born 1972 or 1973) is a Scottish white nationalist who has held senior roles in the British National Party and Patriotic Alternative and who founded Homeland. \nHe has worked as a part-time sports coach and in the tourism industry in Isle of Skye.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Cass (painting)  - Wikipedia> Cass is an oil painting created by the New Zealand artist Rita Angus in 1936.\nBackground.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Wilhelmine Sulzer  - Wikipedia> Friederica Catharina Sulzer better known for her stage name as Wilhelmine Sulzer (Munich, 1820 - ?) was a Munich royal court actress. She appeared in the Gallery of Beauties gathered by Ludwig I of Bavaria in 1838.\nLife.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<\u013dudov\u00edt \u00d3dor  - Wikipedia> \u013dudov\u00edt \u00d3dor (; born 2 July 1976) is a Slovak economist and politician serving as Prime Minister of Slovakia since May 2023, heading a cabinet that will leave office following the 2023 Slovak parliamentary election on 30 September. He has also been serving as Minister of the Interior since July 2023. Until his appointment, \u00d3dor served as Deputy Governor of the National Bank of Slovakia from 2018.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lukas Nerurkar  - Wikipedia> Lukas Nerurkar (born 14 November 2003) is a British professional cyclist, who currently rides for UCI Continental team .\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ruslan Bashirov  - Wikipedia> Ruslan Fizulievich Bashirov (; born 8 July 2000) is a Russian football player. He plays for Dynamo Vologda.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Camila Avella  - Wikipedia> Mar\u00eda Camila Avella Monta\u00f1ez (born June 26, 1995) is a Colombian model and beauty pageant titleholder who was crowned Miss Universe Colombia 2023, being the first delegate from Casanare to ever be crowned Miss Universe Colombia and will represent her country at Miss Universe 2023 pageant.\nPersonal life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ashwath Bhatt  - Wikipedia> Ashwath Bhatt (born 05 July 1975) is an Indian film actor. He is known for his roles in IB71, Mission Majnu, Sita Ramam, Raaz Reboot, Rakkhosh, Raazi Phantom, Kesari, and Haider.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Klaudia Halejcio  - Wikipedia> Klaudia Halejcio (born in Warsaw, on September 13, 1990) is a Polish TV and film actress. She is known for starring in series such as Pierwsza Milosc (2004) and Television Theater (1953), as well as the movie Szczescia Chodza Parami (2022).\nBio.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Siti Atiqoh Supriyanti  - Wikipedia> Siti Atiqoh Supriyanti (born 25 November 1971) is a former civil servant and journalist who served as the First Lady of Central Java from 2013 to 2023. She is the wife of Ganjar Pranowo, a politician who is a member of Indonesian Indonesian Democratic Party of Struggle and Governor of Central Java.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Bahrin Abbas  - Wikipedia> Pengiran Bahrin (born 2 July 1946) sometimes spelled Abas, is a nobleman, lawyer and politician in the Government of Brunei whom formerly took office as the first Minister of Law from 1984 to 1998, the first Minister of Communications from 1984 to 1986, and the sixth Attorney General of Brunei from 1978 to 1998.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Joe Jacques (baseball)  - Wikipedia> Joseph Jacques (born March 11, 1995) is an American professional baseball pitcher for the Boston Red Sox of Major League Baseball (MLB). He made his MLB debut in 2023.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Billy Hickman (American football)  - Wikipedia> William Hickman (born ) is an American college football coach. He is the head football coach for Western New Mexico University; a position he has held since 2023. He also coached for Colorado Mines, Tabor, and Luther. He played college football for Bakersfield and Tabor as a guard and tackle.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ricardo Pires  - Wikipedia> Ricardo Pires Santos J\u00fanior (born 22 September 1987), or simply Ricardo Pires, is a Brazilian professional footballer who plays as a forward for Liga 2 club Persiraja Banda Aceh.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Chris Norwell  - Wikipedia> Christopher Reinhard Norwell (born January 12, 1985) is an American college football coach. He is the head football coach for Thomas More University; a position he has held since 2022. He played college football for Illinois and professionally for the New England Patriots and Minnesota Vikings of the National Football League (NFL) as a defensive tackle.\nPersonal life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Brayden Schager  - Wikipedia> Brayden Schager (born c. 2003) is an American football quarterback for the Hawaii Rainbow Warriors football team.\nEarly years.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lena Borislavova  - Wikipedia> Lena Zdravkova Borislavova (8 October 1989, Sofia, Bulgaria) is a Bulgarian lawyer, politician, and member of parliament from \"We Continue the Change\" in the XLVII National Assembly. She serves as the head of the political office in the government of Kiril Petkov.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Grondalski family killings  - Wikipedia> The Grondalski family killings refers to the killing of the Grondalski family by the Hells Angels on October 5, 1986, in Mendocino County, California, in the United States.\nBackground.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ihor Fedorov  - Wikipedia> Major General Ihor Vasylovych Fedorov (Ukrainian: \u0406\u0433\u043e\u0440 \u0412\u0430\u0441\u0438\u043b\u044c\u043e\u0432\u0438\u0447 \u0424\u0435\u0434\u043e\u0440\u043e\u0432; born on 8 June 1954), is a Ukrainian soldier, who is the First Deputy Chief of Staff of the Land Forces of the Armed Forces of Ukraine. Fedorov had been the Chief of Staff - first deputy commander of the Operational Command South, and had been the acting commander of the military district in 2012.\nHe had been the Chief of Staff - first deputy commander of the troops of the Southern Military District, the Chief Operational Duty Officer, and has been the Deputy Chief of the Main Command Center of the Armed Forces of Ukraine.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Colby Sorsdal  - Wikipedia> Colby Sorsdal (born March 1, 2000) is an American football offensive tackle for the Detroit Lions of the National Football League (NFL). He played college football at William &amp; Mary.\nHigh school career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Luciano Sanhueza  - Wikipedia> Luciano Ariel Sanhueza Rozas (born 16 November 1996) is an Argentine-Chilean footballer who played as a striker for Bolivian club Cicl\u00f3n de Tarija.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jon Pult  - Wikipedia> Jon Pult (born 1984, Scuol, Switzerland) is a historian and politician of the Social Democratic Party (SP). Since 2019, Pult is a member of the National Council representing Grisons for the SP.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Monica Mary Ncube  - Wikipedia> Sr. Monica Mary Ncube (born 1949) is a Zimbabwean-Canadian Roman Catholic religious sister and nurse. Since 2017 she has been Superior General of the Missionary Sisters of the Precious Blood (C.P.S).\nLife.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Louise Kingston  - Wikipedia> Louise Kingston is an Australian politician serving as a member of the Western Australian Legislative Council to represent the Western Australian National Party for the South West Region.\nEarly life and career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<A Roy Rogers in Franconia  - Wikipedia> \"A Roy Rogers in Franconia\" is the twelfth episode of the fourth season of the American period spy drama television series \"The Americans\". It is the 51st overall episode of the series and was written by executive producer Joel Fields and series creator Joe Weisberg, and directed by executive producer Chris Long. It was released on FX on June 1, 2016.\nThe series is set during the Cold War and follows Elizabeth and Philip Jennings, two Soviet KGB intelligence officers posing as an American married couple living in Falls Church, a Virginia suburb of Washington, D.C., with their American-born children Paige and Henry. It also explores the conflict between Washington's FBI office and the KGB \"Rezidentura\" there, from the perspectives of agents on both sides, including the Jennings' neighbor Stan Beeman, an FBI agent working in counterintelligence. In the episode, William starts having second thoughts about his mission, while the FBI finds a bug inside the Mail Robot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Olga Fadeeva (actress)  - Wikipedia> Olga Efimovna Fadeeva is a Belarusian and Russian actress of theater and cinema. She is best known for her role as nurse Irina in the TV series \"Soldiers\".\nShe has been married to Aleksandr Samokhvalov since 2008. They have one child. She was previously married to Pavel Adamchikov.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Bak Joo-hyo  - Wikipedia> Bak Joo-hyo (born 29 June 1997) is a South Korean weightlifter and amateur singer.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Brad Smiley  - Wikipedia> Brad Smiley (born ) is an American college football coach. He is the head football coach for Southern Arkansas University; a position he has held since 2022. He also was the head coach for Trinity Valley Community College from 2007 to 2017. He also coached for Baylor, Northwestern State, and Tulane.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<David D. Moore  - Wikipedia> David Dudley Moore (born August 21, 1952) is an American molecular biologist known for his work investigating nuclear hormone receptors. He is a Professor and Chair of the Department of Nutritional Sciences &amp; Toxicology at the University of California, Berkeley. He was a founding editor for the Current Protocols series of laboratory manuals in 1987.\nMoore has been a leading figure in the investigation of nuclear hormone receptors, having initially discovered and described many family members. Some of his most significant discoveries are the constitutive androstane receptor (CAR) in 1994, farnesoid X receptor (FXR) in 1995, and the small heterodimer partner (SHP) in 1996.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Paulina Alexis  - Wikipedia> Paulina Jewel Alexis (born September 10, 2000), also known as W\u01ceg\u00edya\u014b \u010c\u00ed\u017ea\u014b or Young Eagle, is a Canadian actress best known for her role as Willie Jack in \"Reservation Dogs\" (2021\u20132023). She won the Independent Spirit Award for Best Ensemble Cast in a New Scripted Series in 2022 and in 2023 was nominated for the Critics' Choice Award for Best Supporting Actress in a Comedy Series. The series won a Peabody Award.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Barbara Massing  - Wikipedia> Barbara Massing ( 31 May 1960 \u2013 27 March 2017) was a German sea captain. She sailed on fourth-generation container ships and was one of the very few female captains in the world during her time. Massing was a nautical member of the Haus Seefahrt in Bremen. In 2004, she became the first woman to take part in the traditional Bremen Schaffermahlzeit, an annual banquet where its history dates back to 1545.\nLife.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jalen Mack  - Wikipedia> Jalen Mack (born August 5, 2005) is an American professional stock car racing driver who competes part-time in the ARCA Menards Series and ARCA Menards Series East, driving the No. 43 Chevrolet for Tamayo Cosentino Racing. He also competes part time in the ARCA Menards Series West, driving the No. 83 Chevrolet for Mack Motorsports in conjunction with Bill McAnally Racing.\nRacing career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Andriyko Olha Fedorivna  - Wikipedia> Andriyko Olha Fedorivna (born January 28, 1945, Voronkiv, Kyiv region) is a Doctor of Law, Professor, Head of the Department of Constitutional, Administrative and Financial Law of the Kyiv University of Law of the National Academy of Sciences of Ukraine, and Deputy Head of the Department of State and Legal Problems of Management of the V. M. Koretsky Institute of State and Law of the National Academy of Sciences of Ukraine.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mihir Lal Chattopadhyay  - Wikipedia> Mihir Lal Chattopadhyay (born 1902) was an Indian politician. He was the member of Constituent Assembly of India. He one of those who voted for the creation of a separate West Bengal on June 20, 1947.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Myron G. Barlow  - Wikipedia> Myron G. Barlow (15 April 15, 1873, Ionia \u2014 14 August 1937, \u00c9taples) was an American figurative painter. A gold medalist in international art exhibitions, he had a home at the Etaples art colony (the colony a place in France in which American artists converged before World War 1). He was friend to Henry Ossawa Tanner. He also remained a resident of Detroit.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Michael Dinan  - Wikipedia> Michael Dinan (born 25 June 1998) is an American racing driver and car collector currently competing in the FIA World Endurance Championship with ORT by TF alongside Ahmad Al Harthy and Charlie Eastwood. Dinan is the son of billionaire hedge fund manager Jamie Dinan.\nCar Collection.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Patrick Joseph Shannon  - Wikipedia> Patrick Joseph Shannon (11 March 1902 \u2013 26 August 1963) was a law enforcement officer who served as Deputy Commissioner of Police (Singapore) from 1947 to 1950 and Commissioner of Constabulary (Sarawak) from 1947 to 1953.\nShannon was born on 11 March 1902 in Cork, Ireland.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Simeon Popovi\u0107  - Wikipedia> Simeon Popovi\u0107 (Serbian Cyrillic: \u0421\u0438\u043c\u0435\u043e\u043d \u041f\u043e\u043f\u043e\u0432\u0438\u045b; 19 December 1854 \u2013 1 April 1941), sometimes romanized as Symeon Popovich, was a Serbian Orthodox hieromonk and the first abbot of the Dajbabe Monastery, which he founded.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Stefano Vaccari  - Wikipedia> Stefano Vaccari (born April 10, 1967) is an Italian politician. He served as the mayor of Nonantola from 1995 to 2004, held the position of Provincial Councilor in the Province of Modena, and was a senator during the XVII legislature of the Italian Republic.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Suman Karki  - Wikipedia> Suman Karki (Nepali: \u0938\u0941\u092e\u0928 \u0915\u093e\u0930\u094d\u0915\u0940 ) was born on(December 21, 1995), is a Nepali actor and standup comedian from Okhaldhunga, Nepal known for his work in Nepalese cinema.\nHe is the top 5 contestant of Comedy Champion season 1. Comedian Suman Karki is popular from his caricature. He does the mimicry of famous comedians, actors, and politicians, etc.He started his career as a comedian in 2012. He was the host of reality show Dancing with the Stars Nepal. He also performs in comedy-reality show Comedy Club with Champions, which is broadcast on Nepal Television.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Walter John Napier  - Wikipedia> Sir Walter John Napier (10 July 1857 \u2013 14 February 1945) was an English barrister who was the fourth Attorney-General of the Straits Settlements and the founder of the Singaporean law firm Drew and Napier.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Karin Thissen  - Wikipedia> Karin Thissen (born on July 5, 1960, Neuss, Germany) is a German veterinarian and politician (SPD) who was a member of the Bundestag from 2015 to 2017.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Adolf W\u00fcrth  - Wikipedia> Adolf W\u00fcrth also spelled Wuerth ( February 7, 1909 \u2013 December 14, 1954) was a German businessman. In 1945, he founded what today is known as W\u00fcrth Group, the world's largest industrial screw distributor. He is the father of Reinhold W\u00fcrth.\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Luke Turner (footballer)  - Wikipedia>  Luke Turner (born 20 May 2002) is an Irish footballer who plays as a centre-back for Cliftonville.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Alam Singh Nachna  - Wikipedia> Alam Singh Nachna (died 22 December 1704 or 1705), also called Alim Singh, was a warrior in the army of Guru Gobind Singh, and was a Rajput turned Sikh. \"Sarup Das Bhalla of Mahima Prakash\" describes him as one of Guru Gobind Singh's constant and closest companions. He is also known for killing a lion single handedly.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Tre Harris  - Wikipedia> Cleveland Joseph \"Tre\" Harris III (born February 28, 2002) is an American football wide receiver for the Ole Miss Rebels. He previously played for the Louisiana Tech Bulldogs.\nEarly life and high school.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<\u00c1nxeles Penas  - Wikipedia> \u00c1nxeles Penas Garc\u00eda (born 5 May 1943 in Teixeiro, Curtis, Spain) is a Spanish poet, first in Spanish and, since 1982, in Galician. She has also participated in more than 50 exhibitions as a sculptor and painter.\nEducation.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Terell Smith  - Wikipedia> Terell Smith (born July 27, 1999) is an American football cornerback for the Chicago Bears of the National Football League (NFL). He played college football at Minnesota.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Paul Castonia  - Wikipedia> Paul Castonia (born 1965) is an American college football coach. He is the head football coach for Plymouth State University, a position he has held since 2003. He also was the head football coach for University of Massachusetts Boston from 1998 to 2000. He previously coached for Rhode Island, Maryland, Hartwick, Ferrum, and Bryant.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Helen Roche  - Wikipedia> Helen Roche is a British historian and an associate professor in modern European cultural history at Durham University.\nAcademic career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Frank Tempel  - Wikipedia> Frank Tempel (born January 19, 1969) is a German politician (Die Linke). He was a member of the German Bundestag from 2009 to 2017, where he was the drug policy spokesman for the Bundestag parliamentary group from May 2010. In January 2014, Frank Tempel was elected unopposed as deputy chairman of the Bundestag's Interior Committee. He was the first politician from Die Linke party to hold this post. From 2017 to 2019, he was head of the Domestic Violence Coordination Office in Thuringia. Since 2020, he has been back at the criminal investigation department in Gera.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dragana Kosjerina  - Wikipedia> Dragana Kosjerina (, , born August 22, 1987) is a Serbian journalist and TV anchor. She currently works at Radio-television of Serbia.\nBiography.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kingsley Okonkwo  - Wikipedia> Kingsley Okonkwo is a Nigerian pastor, counselor, televangelist, and author. He is the founder and senior pastor of David's Christian Centre, and the convener of Love, Dating, and Marriage (LDM), a relationship seminar held monthly.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Resa Aditya  - Wikipedia> Resa Aditya Nugraha (born 6 March 2004) is an Indonesian professional footballer who plays as a midfielder for Liga 2 club Sriwijaya, on loan from Persija Jakarta.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Billie Starkz  - Wikipedia> Lillian Bridget (born December 8, 2004), known under the ring name Billie Starkz, is an American professional wrestler currently performing in All Elite Wrestling (AEW). She also appears in AEW's sister promotion Ring of Honor (ROH). She has also wrestled in numerous promotions such as Game Changer Wrestling, Tokyo Joshi Pro-Wrestling, and Major League Wrestling.\nProfessional wrestling career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Harry Milne  - Wikipedia> Harry Milne (born 10 October 1996) is a Scottish professional footballer who plays Left Back for Scottish Championship club Partick Thistle.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pedro Clerot  - Wikipedia> Pedro Redovalho Clerot (born 27 January 2007) is a Brazilian racing driver who is currently competing in the 2023 F4 Spanish Championship for MP Motorsport.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Wong Tat Meng  - Wikipedia> Wong Tat Meng (born 1967) is a former badminton player from Malaysia and coach. Currently he is an independent coach for Malaysian men's singles Lee Zii Jia.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Collins Sichenje  - Wikipedia> Collins Lusaka Sichenje (born 19 September 2003) is a Kenyan professional footballer who plays as a centre-back for Finnish club KuPS on loan from the Swedish side AIK.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Laurie Cardoza-Moore  - Wikipedia> Laurie Cardoza-Moore (born February 20, 1962) is an American activist, film producer and Evangelical leader who hosts the Christian television program \"Focus On Israel\" on NRB TV. \nShe became known in 2010 for campaigning against the Islamic Center of Murfreesboro, which led some to describe her as anti-Muslim. She is also known for campaigning for anti-BDS laws and against controversial school textbooks. As Special Envoy to the United Nations, she states to focus on human rights abuses against Jews, Christians and Muslims. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nikita Saltykov  - Wikipedia> Nikita Andreyevich Saltykov (; born 11 August 2004) is a Russian football player who plays as a left winger for Krylia Sovetov Samara.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Aji Kusuma  - Wikipedia> Aji Kusuma (born 30 January 1999) is an Indonesian professional footballer who plays as a forward for Liga 1 club Persija Jakarta.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Benisha Poudel  - Wikipedia> Benisha Poudel (Nepali: \u092c\u0947\u0928\u093f\u0936\u093e \u092a\u094c\u0921\u0947\u0932 ) (born 15 August 2001) is a Nepali Singer from Jhapa District of Nepal. she was a contestant of Nepal Idol Seasons 4. she has established herself as one of the leading singers in Nepal. \"Aakhaima laune gazal\" Sakiyo is the debut song in her singing career. She has sung over one 200 songs.\"\"hamro Yo maya\", \"patuki Bereko\" and \"Pardaina Pardaina\",\"Jiwan ko Pana\"\" are some Popular song in her musical carrier. She has been awarded from himalayan international award and Music khabar music award.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Enrique Borgo Bustamante  - Wikipedia> Enrique Borgo Bustamante is a politician from El Salvador and former Vice President of El Salvador from 1994 to 1999.\nBorgo was born on 22 August 1928 in San Salvador. He graduated as a lawyer from the University of El Salvador in 1952, and did a postgraduate degree in public finances, commercial and civil law in the University of Rome, as well as a degree in economic sciences in the University of El Salvador in 1967. Borgo is a businessman, former executive president of TACA International Airlines.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mac Clark  - Wikipedia> Mackenzie \"Mac\" Clark (born 26 March 2004) is a Canadian racing driver. He currently competes in the 2023 USF2000 Championship driving for DEForce Racing. He is the 2022 USF Juniors champion.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Benjamin Salda\u00f1a Rocca  - Wikipedia> Benjamin Salda\u00f1a Rocca (1865 \u2013 1912) was a distinguished Peruvian soldier and later journalist, mostly known for his role in exposing the Putumayo genocide which was perpetrated by Julio C\u00e9sar Arana and the Peruvian Amazon Company. Salda\u00f1a established the newspapers \"La Sancion\" and \"La Felpa\", which made revelations about crimes occurring in the Putumayo under Arana's Company, and publicly campaigned for justice to be served in the region.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lu\u00eds de Ata\u00edde, 3rd Count of Atouguia  - Wikipedia> D. Lu\u00eds de Ata\u00edde, 1st Marquess of Santar\u00e9m and 3rd Count of Atouguia (c. 1516 \u2013 March 10, 1581), was a Portuguese nobleman, military commander and statesman of the 16th century, who stood out for his military feats in the Portuguese State of India. He served as Viceroy of India for two non-subsequent terms (1568\u20131571 and 1578\u20131581).\nIn his first term in India, Dom Lu\u00eds de Ata\u00edde led military campaigns in the war of the League of the Indies that would probably be described today as a total war (a concept created in the 18th century, in opposition to the notion of limited war); for the Portuguese Empire had to use all of its available resources - military, economic, political and diplomatic - and also include operations involving or affecting civilians, in order to be able to resist a joint assault by the Indian potentates, with the purpose of expelling the Portuguese from their cities, forts and trading posts in the Indian Ocean.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nina Andriievska  - Wikipedia> Nina Kostyantynivna Andriievska (Ukrainian: \u041d\u0456\u0301\u043d\u0430 \u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u0301\u043d\u0456\u0432\u043d\u0430 \u0410\u043d\u0434\u0440\u0456\u0454\u0301\u0432\u0441\u044c\u043a\u0430; 20 December 1927 \u2013 14 June 2014) was a Ukrainian composer, musicologist, journalist, editor, radio commentator, music and social activist. She was an Honored journalist of the Ukrainian SSR (1983) and an Honored Artist of Ukraine (1998).\nEarly life and education.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Achref Habbassi  - Wikipedia> Achref Habbassi (born 8 December 2001; ) is a Tunisian professional footballer who plays as a right winger for CS Sfaxien, he plays for the Tunisia national team.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dina Gal\u00edndez  - Wikipedia> Dina Gal\u00edndez (born \"circa\" 1944 C\u00f3rdoba) was an Argentine paralympic athlete. She specialized in adapted athletics and wheelchair basketball. Gal\u00edndez won six medals, with two gold medals, at the 1968 Summer Paralympics, in Tel Aviv, in track and field and wheelchair basketball.\nCareer.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ryan Trahan  - Wikipedia> Ryan Michael Trahan (born October 7, 1998) is an American YouTuber, vlogger, and entrepreneur. He is best known for his \"penny challenge\" series, which he has done several of starting from 2017. Trahan has founded multiple businesses such as Neptune Bottle, as well as his clothing line \"Howdy Howdy\".\nPersonal life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Alejandro Hernandez (actor)  - Wikipedia> Alejandro Hernandez is an American actor, known for playing Nurse Casey Acosta in the NBC medical drama series, \"New Amsterdam\" (2018\u20132023), and Luis Batista in the Amazon Prime Video black comedy-horror series, \"The Horror of Dolores Roach\" (2023).\nLife and career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Paolo Cortese  - Wikipedia> Paolo Cortese (Naples, 11 December 1827 \u2013 Naples, 21 December 1876) was an Italian politician. Born into a family originally from Basilicata, he was a deputy for the constituencies of Naples and Potenza, and Minister Justice in the second La Marmora government.\nEarly life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Borrowed Tongue  - Wikipedia> Borrowed Tongue is the debut studio album by South Korean singer-songwriter Minhwi Lee. The album was released on 17 November 2016. The album won The Best Folk Album at the 2017 Korean Music Awards.\nBackground.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Yxngxr1  - Wikipedia> Timothy Francis Lee (born September 28, 1998), known by his stage name Yxngxr1 (pronounced younger one), is a British rapper. He is best known for songs such as \"Rather Do\", \"Pigeons\", and \"721\".\nEarly life and career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Bar\u0131\u015f Bekta\u015f  - Wikipedia> Bar\u0131\u015f Bekta\u015f (born 27 November 1976 in Seydi\u015fehir) is a Turkish politician from the Republican People's Party who has been a Deputy for Konya in the Grand National Assembly of Turkey since 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Faisol Yunus  - Wikipedia> Muhammad Faisol Yunus (born 2 February 1997) is an Indonesian professional footballer who plays as a forward for Liga 2 club Gresik United.\nClub career.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Manisha Rani  - Wikipedia> Manisha Rani (born 9 June 1997) is an Indian actress known for working in Hindi Television and music videos. She has appeared in reality shows, television serials, and music videos. Manisha Rani gained popularity with her performance in the reality show Bigg Boss OTT (Hindi season 2).\nEarly life.",
+      "task": "test_pure_evidence"
+    }
+  ]
+}

@@ -1,0 +1,850 @@
+{
+  "type": "text_only",
+  "instances": [
+    {
+      "text": "",
+      "output": "<San Diego Film Critics Society Awards 2022  - Wikipedia> The 27th San Diego Film Critics Society Awards were announced on January 6, 2023. The nominations were announced on January 3, 2023, with \"The Banshees of Inisherin\" and \"Everything Everywhere All at Once\" leading the nominations with eleven each, followed by \"The Fabelmans\" with eight.\n\"The Banshees of Inisherin\" won the most awards with six wins, including Best Picture.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<AKA (2023 film)  - Wikipedia> AKA is a 2023 French action crime film directed by Morgan S. Dalibert, written by Morgan S. Dalibert and Alban Lenoir and starring Lenoir, Eric Cantona and Thibault de Montalembert. It is about an undercover agent (played by Lenoir) tasked with infiltrating a crime gang that is connected to a Sudanese terrorist bombing suspect.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lal Salaam (2024 film)  - Wikipedia> Lal Salaam is an upcoming Indian Tamil-language sports drama film written and directed by Aishwarya Rajinikanth. It is produced by Subaskaran Allirajah under the banner Lyca Productions. The film stars Vishnu Vishal and Vikranth in the lead roles while Rajinikanth makes a cameo appearance in the film. A. R. Rahman is composing the music for the film.\nCast.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<35th Tokyo International Film Festival  - Wikipedia> The 35th Tokyo International Film Festival was a film festival that took place from 24 October to 2 November 2022. American writer-director Julie Taymor served as jury president. With \"The Beasts\" winning the Tokyo Grand Prix, the festival's top prize, Rodrigo Sorogoyen became the second Spanish director to achieve the prize, after Alejandro Amen\u00e1bar in 1998.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Titina (film)  - Wikipedia> Titina is a 2022 Norwegian-Belgian animated feature directed by Kajsa N\u00e6ss. The film was produced by Mikrofilm producers Tonje Skar Reiersen and Lise Fearnley, in co-production with Viviane Vanfleteren from Vivi Film. Titina was written by Per Schreiner and director Kajsa N\u00e6ss. The music is by Norwegian composer K\u00e5re Vestrheim. Titina had its Norwegian theatrical release on October 21st, 2022.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Champions (2021 film)  - Wikipedia> Champions (Arabic: \u0623\u0628\u0637\u0627\u0644) is a 2021 Saudi Arabian-Spanish sports comedy film written and directed by Manuel Calvo. It is an Arabic-language remake of the 2018 Spanish film of the same name. Starring Yassir Al Saggaf and Fatima Al Banawi.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Krazy House (film)  - Wikipedia> Krazy House is an upcoming Dutch comedy film. It is written, directed, and co-produced by Steffen Haars and Flip van der Kuil in their English-language feature debut. Shot on location in Amsterdam, the film stars Nick Frost, Kevin Connolly and Alicia Silverstone. Maarten Swart is producer for Kaap Holland Films.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ang Mga Kaibigan ni Mama Susan (film)  - Wikipedia> Ang Mga Kaibigan ni Mama Susan (lit. Mama Susan's Friends) is a 2023 Philippine horror thriller film based on Bob Ong's 2010 mystery novel \"on the same name\" directed by Chito S. Ro\u00f1o and written by Bob Ong. It stars Joshua Garcia &amp; Angie Ferro on her last film as she died on August 17, 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hanging Gardens (2022 film)  - Wikipedia> Hanging Gardens is a 2022 drama film directed by Ahmed Yassin Al Daradji who co-wrote with Margaret Glover. It is a co-production between Iraq, Palestine, Saudi Arabia, Egypt and the United Kingdom.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Unstoppable (2023 film)  - Wikipedia> Unstoppable is a 2023 comedy-drama film directed by Diamond Ratnababu and produced by Rajith Rao under AB2 Productions. The film was released theatrically worldwide on 9 June 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<2017 Indonesian Film Festival  - Wikipedia> The 37th Citra Awards ceremony took place on 11 November 2017 at the Grand Kawanua International Convention Hall in Manado, North Sulawesi, Indonesia. It was hosted by comedian Denny Chandra and Puteri Indonesia 2016 titleholder Kezia Warouw. The ceremony honored the achievement in Indonesian cinema of 2017. This year, there was one new category that was awarded for the first time, Best Makeup. The ceremony was broadcast on Global TV, iNews and TVRI.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Tartarin of Tarascon (1934 film)  - Wikipedia> Tartarin of Tarascon (French: Tartarin de Tarascon) is a 1934 French comedy film directed by Raymond Bernard and starring Raimu, Fernand Charpin and Jean Sino\u00ebl. It is based on the 1872 novel of the same title by Alphonse Daudet. It was shot at the Joinville Studios in Paris and on location around Beaucaire and Tarascon in Southern France and Bou Sa\u00e2da in French Algeria. The film's sets were designed by the art directors Lucien Carr\u00e9 and Jean Perrier. It was remade as a 1962 film of the same name directed by and starring Francis Blanche.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Infinity (2023 film)  - Wikipedia> Infinity is a 2023 Indian Tamil-language crime,thriller film written and directed by Sai Karthik. The film stars Natarajan Subramaniam, Vidya Pradeep, Munishkanth and Charles Vinoth in the lead roles. The film was produced under the banners of Menpani Production.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Spy (2023 film)  - Wikipedia> Spy is a 2023 Indian Telugu-language action spy film directed and edited by Garry BH (in his directorial debut) from a story written by K. Rajashekhar Reddy, who also produced the film. It stars Nikhil Siddhartha, Iswarya Menon, Abhinav Gomatam, Aryan Rajesh, Ravi Varma and Sachin Khedekar. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dance into Happiness (1951 film)  - Wikipedia> Dance into Happiness (German: Tanz ins Gl\u00fcck) is a 1951 Austrian musical comedy film directed by Alfred St\u00f6ger and starring Johannes Heesters, Lucie Englisch and Waltraut Haas. It is an operetta film, based on \"Whirled into Happiness\" composed by Robert Stolz. It was shot in Agfacolor. It was made at the Tempelhof Studios in West Berlin and on location around Bregenz and nearby Lake Constance in Vorarlberg. The film's sets were designed by the art director Gabriel Pellon. It premiered on 20 October 1951 in Hanover and was not released in Austria until its release in Vienna on 26 February 1952.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Run Rabbit Run (film)  - Wikipedia> Run Rabbit Run is a 2023 Australian psychological horror film directed by Daina\u00a0Reid and written by Hannah Kent. It stars Sarah Snook, Lily LaTorre, Damon Herriman and Greta Scacchi. The film premiered at the Sundance Film Festival on 19 January 2023 and was released on Netflix on 28 June 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Turn Me On (film)  - Wikipedia> Turn Me On is an upcoming dystopian romance film directed by Michael Tyburski and scripted and executive produced by Angela Bourassa, and starring Bel Powley and Nick Robinson.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kodai (film)  - Wikipedia> Kodai is a 2023 Indian Tamil-language romantic comedy drama film directed by Raajaselvam and starring Karthick Singa and Anaya Lakshmi in the lead roles. The film's music is composed by Subash Kavi, while the cinematography is handled by Arjunan Karthick and editing is done by G. Sasikumar. It was released on 10 February 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<1st Filmfare Awards Marathi  - Wikipedia> The 1st Filmfare Marathi Awards is a ceremony, presented by Ajeenkya DY Patil University, honored the best Indian Marathi-language films of 2014.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Radical (film)  - Wikipedia> Radical is a 2023 Mexican drama film written and directed by Christopher Zalla. The film is based on the 2013 \"Wired\" article, \"A Radical Way of Unleashing a Generation of Geniuses\" by Joshua Davis.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Khushboo (1979 film)  - Wikipedia> Khushboo is a 1979 Pakistani film directed by Nazar Shabab. It is produced by A. Hameed and music was composed by M. Ashraf. The lead cast of the film includes Rani, Shahid, Mumtaz with Nayyar Sultana and Rangeela in the supporting cast. It was released on 25 August 1979, on the occasion of Eid-ul-Fitr, and was a golden jubilee hit at the box office.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Born to Fly (film)  - Wikipedia> Born to Fly is a 2023 Chinese military film set against the backdrop of the decades of modernization of the People's Liberation Army Air Force. Directed by Liu Xiaoshi and produced by Han Han, the film stars Wang Yibo, Hu Jun, Yu Shi and Zhou Dongyu. The film was released on April 28, 2023 in China and garnered $121 million worldwide.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pater Noster (film)  - Wikipedia> Pater Noster (also known as Our Father...; ) is a 1993 Finnish black-and-white drama film written and directed by Veikko Aaltonen. It tells the story of a young man returning to his childhood home, who decides to face painful memories related to his formerly abusive but today demented father. The film stars Hannu Kivioja, Martti Katajisto and Elina Hurme.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Paradise Circus (film)  - Wikipedia> Paradise Circus is a 2023 Indian Malayalam-Hindi bilingual drama film written and directed by Khais Millen. It was produced by Jijo Antony, C. Unnikrishnan, and Co-Produced by Sin Treesa and Soji Khais. The Film Stars Shine Tom Chacko, Ishita Singh, Jaffer Sadiq, Abhiram Radhakrishnan and 100 more real circus artists.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Darja (film)  - Wikipedia> Darja is a 2022 Indian Telugu-language drama film written and directed by Saleem Malik. The film was produced by Siva Sankar Paidipati under the banner of PSS Entertainments and features Sunil and Anasuya Bharadwaj in lead roles. The film was released theatrically on 22 July 2022 and also streamed on Aha on October 18, 2022. The film received mixed reviews from critics and was a commercial failure.\nProduction.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Disco Boy (film)  - Wikipedia> Disco Boy is a 2023 European co-production drama film directed by Giacomo Abbruzzese in his debut feature and starring Franz Rogowski as Aleksei. The film depicts the intertwined stories of Aleksei, a member of the French Foreign Legion; and of Jomo, a guerrilla fighter in a village in the Niger Delta. It was selected to compete for the Golden Bear at the 73rd Berlin International Film Festival, where it had its world premiere on 19 February 2023. Giacomo Abbruzzese, the first feature director was also nominated for GWFF Best First Feature Award in the festival. It was released in French cinemas on 3 May 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Movie Artists Association  - Wikipedia> The Movie Artists Association (MAA) started October 4, 1993, with the collective vision and efforts of stalwarts like Akkineni Nageswara Rao, Krishnam Raju, Krishna, Murali Mohan, Mohan Babu and other senior artists. Chiranjeevi was made the maiden president of the MAA.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Prabhas filmography and awards  - Wikipedia> Prabhas is an Indian actor who works predominantly in Telugu cinema. One of the highest-paid actors in Indian cinema, Prabhas has featured in \"Forbes India\"s Celebrity 100 list three times since 2015 based on his income and popularity. He has received seven Filmfare Awards South nominations and is a recipient of the Nandi Award and the SIIMA Award.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Live (2023 film)  - Wikipedia> Live is a 2023 Indian Malayalam-language thriller film written and directed by VK Prakash. The film stars Mamta Mohandas, Soubin Shahir, Shine Tom Chacko, Priya Prakash Varrier, Krishna Prabha, and Reshmi Soman. The film is produced Darppan Bangejja and Nitin Kumar under the banner of Films 24. The film was released on 26 May 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Animal (2023 film)  - Wikipedia> Animal is an upcoming Indian Hindi language action thriller film co-written, edited and directed by Sandeep Reddy Vanga and produced by T-Series and Cine1 Studios. The film stars Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna and Tripti Dimri. The cinematography has been handled by Amit Roy and the production design by Suresh Selvarajan.\n\"Animal\" was scheduled to be released on 11 August 2023, but was pushed to 1 December 2023 due to pending post-production work.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Guardian Angel (1934 film)  - Wikipedia> The Guardian Angel (French: L'ange gardien) is a 1934 French comedy film directed by Jean Choux and starring Andr\u00e9 Baug\u00e9, Pola Ill\u00e9ry and Paul Aza\u00efs. The film's sets were designed by the art director Lazare Meerson. It was produced by the French subsidiary of Tobis Film at the company's Epinay Studios.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<In His Steps (1936 film)  - Wikipedia> In His Steps is a 1936 American drama film directed by Karl Brown and starring Eric Linden, Cecilia Parker and Harry Beresford. It was distributed by the recently formed Grand National Pictures. The film's sets were designed by the art director Edward C. Jewell. It was based on the 1896 novel \"In His Steps\" by Charles Sheldon, which had previously been adapted into the silent film \"The Martyrdom of Philip Strong\".",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jump! (2023 film)  - Wikipedia> Jump! is a 2023 Spanish science fiction comedy film directed by Olga Osorio which stars Tamar Novas, Marta Nieto, Mario Santos, and Rub\u00e9n Fulgencio.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Baba Black Sheep (2023 film)  - Wikipedia> Baba Black Sheep is a 2023 Indian Tamil-language drama film written and directed by Rajmohan Arumugam. The film starring Rj Vigneshkanth, Ammu Abhirami, Abdul Ayaz, and Narendra Prasad in lead roles. The film is produced by Raahul under the banner of Romeo pictures. The film was released on 14 July 2023 in theatres.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Past Lives (film)  - Wikipedia> Past Lives is a 2023 American romantic drama film written and directed by Celine Song in her feature directorial debut. Starring Greta Lee, Teo Yoo, and John Magaro, the film follows the relationship between two childhood friends over the course of 24 years, as they contemplate their relationship when they grow apart to have different lives. The plot is semi-autobiographical and inspired by real events from Song's life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Custody (2023 film)  - Wikipedia> Custody is a 2023 Indian period action thriller film written and directed by Venkat Prabhu and produced by Srinivasa Chitturi under Srinivasaa Silver Screen and Anji Industeries. The film stars Naga Chaitanya, Aravind Swamy, Krithi Shetty, Priyamani, R. Sarathkumar and Sampath Raj. It was shot simultaneously in Telugu and Tamil languages. This film marked the Tamil debut of Naga Chaitanya. This was also Krithi Shetty's Tamil debut, as in her last bilingual \"The Warriorr\", her portions were only shot in Telugu. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Settlers (2023 film)  - Wikipedia> The Settlers (Spanish: Los colonos) is a 2023 Western drama film directed by Felipe G\u00e1lvez Haberle (in his directorial debut), who co-wrote with Antonia Girardi. The film stars Mark Stanley, Camilo Arancibia, Benjamin Westfall, Alfredo Castro, Mishell Gua\u00f1a, Sam Spruell, Marcelo Alonso, and Adriana Stuven. It is a co-production between Chile, Argentina, the United Kingdom, Taiwan, France, Denmark, Sweden, and Germany.\n\"The Settlers\" had its world premiere at the 76th Cannes Film Festival on May 17, 2023. It competed for Un Certain Regard and Cam\u00e9ra d'Or, and alongside those was honored with the FIPRESCI Prize, becoming the first Chilean production to win that award. It was selected as the Chilean entry for Best International Feature Film at the 96th Academy Awards.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Judgement Day (1940 film)  - Wikipedia> Judgement Day (German: Das j\u00fcngste Gericht) is a 1940 German comedy drama film directed by Franz Seitz and starring Hans Holt, Olly Holzmann and Susi Nicoletti. Location shooting took place in Waidhofen. The film's sets were designed by the art directors Hans Ledersteger and Ernst Richter. It was produced in Vienna by Wien-Film, a company set up following the German annexation of Austria. It was shot at the Rosenh\u00fcgel and Sievering Studios in the city.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ouch (2016 film)  - Wikipedia> Ouch is a 2016 Hindi dark comedy short film directed by Neeraj Pandey, starring Manoj Bajpayee and former miss India Pooja Chopra.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Jimmy Sheirgill filmography  - Wikipedia> Jimmy Sheirgill (born Jasjit Singh Gill; 3 December 1970), also credited as Jimmy Shergill, is an Indian actor and film producer who works in Hindi and Punjabi films.\nSheirgill began his film career with the 1996 thriller \"Maachis\". His breakthrough came with the blockbuster musical romantic drama \"Mohabbatein\" (2000), which became the highest-grossing Bollywood film of the year, following which he starred in several other box-office hits including \"Mere Yaar Ki Shaadi Hai\" (2002), \"Munna Bhai M.B.B.S.\" (2003), \"Hum Tum\" (2004), \"A Wednesday!\" (2008), \"Tanu Weds Manu\" (2011), \"Special 26\" (2013), \"Happy Bhag Jayegi\" (2016) and \"De De Pyaar De\" (2019). His highest-grossing releases came with the comedy-drama \"Lage Raho Munna Bhai\" (2006), the drama film \"My Name Is Khan\" (2010) and the romantic comedy \"\" (2015), all of which rank among the highest-grossing Indian films of all time. The latter earned him a nomination for the Filmfare Award for Best Supporting Actor.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Briar Patch (film)  - Wikipedia> Briar Patch (alternatively titled Plain Dirty) is a 2002 American romantic thriller drama film directed by Zev Berman, starring Dominique Swain, Henry Thomas, Arie Verveen, James Urbaniak and Karen Allen.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Still Human (film)  - Wikipedia> Still Human is a 2022 documentary film by David Albert Habif. The documentary film is a social examination of the two cities of Mumbai and Los Angeles and the struggles and causes of the most deprived populations in these two cities.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Seagrass (film)  - Wikipedia> Seagrass is a 2023 Canadian drama film, directed by Meredith Hama-Brown. Hama-Brown's full-length feature debut, the film stars Ally Maki as Judith, a woman who is at a family retreat with her husband Steve (Luke Roberts) and their children following the death of her mother, where she and Steve are coping with tensions in their marriage arising from their status as an interracial couple.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Narvik (film)  - Wikipedia> Narvik (Norwegian: ) is a Norwegian historical film depicting the Battles of Narvik from 9 April to 8 June 1940. Directed by Erik Skjoldbj\u00e6rg and made by Nordisk Film, it stars Kristine Hartgen, Carl Martin Eggsb\u00f8, Cristoph Gelfert Mathiesen and Henrik Mestad. The film premiered in Norway in December 2022 and was released worldwide (except in Norway) on Netflix in January 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Return (2024 film)  - Wikipedia> The Return is an upcoming film directed by Uberto Pasolini and starring Ralph Fiennes and Juliette Binoche. The film is a retelling of Homer\u2019s The Odyssey by Edward Bond, John Collee and Pasolini.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ghasjomi (film)  - Wikipedia> Ghasjomi is an 2023 Indian Bengali language film directed by Sumantra Roy.The film addresses a range of previously untouched social taboos, shedding light on issues that have long been brushed under the rug.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nefarious (film)  - Wikipedia> Nefarious is a 2023 American independent horror film written and directed by Chuck Konzelman and Cary Solomon, based on Steve Deace's 2016 novel \"A Nefarious Plot\". It stars Jordan Belfi as a psychiatrist who must determine if a convicted death row inmate (Sean Patrick Flanery) is faking his alleged demonic possession. The film was released on April 14, 2023.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Motherland (2023 film)  - Wikipedia> Motherland is a Canadian short drama film, directed by Jasmin Mozaffari and released in 2023. The film stars Behtash Fazlali as Babak, an Iranian immigrant to the United States during the Iran hostage crisis in the 1970s, who must confront anti-Iranian prejudice when he meets his girlfriend's parents for the first time. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Abandonada (film)  - Wikipedia> Abandonada (transl. Abandoned or Abandoned Woman) is a 2000 Philippine drama film directed by Joel Lamangan. The film stars Maricel Soriano, Edu Manzano and Angelu de Leon.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Love (2023 film)  - Wikipedia> Love is a 2023 Indian Tamil-language romantic thriller film directed by R. P. Bala in his directorial debut. It is a remake of the 2020 Malayalam film of the same name. The film stars Bharath and Vani Bhojan with Vivek Prasanna, Radha Ravi, Daniel Annie Pope, Swayam Siddha and Adams in supporting roles.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Sun Moon (film)  - Wikipedia> Sun Moon is a 2023 Christian-themed movie about a woman who takes a job teaching English to high school students in Taiwan after being left at the altar by her fianc\u00e9.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hard Miles (film)  - Wikipedia> Hard Miles is an upcoming American sports drama film written by Christian Sander and R.J. Daniel Hanna, directed by Hanna and starring Matthew Modine.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Armchair Cinema  - Wikipedia> Armchair Cinema is a British television drama anthology series of one-off plays that ran on the ITV network between 1974-1975. It was produced by Euston Films in conjunction with Thames Television. The series was a spin-off from the long running anthology series \"Armchair Theatre\". A total of six episodes were produced over the course of one series.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Imaginary (film)  - Wikipedia> Imaginary is an upcoming American supernatural horror film directed by Jeff Wadlow and co-written with Greg Erb, Jason Oremland and Bryce McGuire. The film stars Betty Buckley and is produced by Wadlow, and Jason Blum through his Blumhouse Productions banner. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The President (1938 film)  - Wikipedia> The President (French: La pr\u00e9sidente) is a 1938 French comedy film directed by Fernand Rivers and starring Elvire Popesco, Henri Garat and Andr\u00e9 Lefaur. It is based on the 1912 play of the same title by Maurice Hennequin. The film's sets were designed by the art director Ren\u00e9 Renoux. The play was adapted again for the 1952 Italian film \"Mademoiselle Gobete\".",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<My Animal (film)  - Wikipedia> My Animal is a 2023 Canadian supernatural horror romance film directed by Jacqueline Castel in her feature directorial debut, and written by Jae Matthews. Starring Bobbi Salv\u00f6r Menuez and Amandla Stenberg, the film follows a woman who is forced by her overbearing parents to keep her lycanthropy a secret, until she begins to fall in love with a figure skater.\n\"My Animal\" had its world premiere at the Sundance Film Festival, on January 22, 2023, and was released in select theaters on September 8, 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Fixed (film)  - Wikipedia> Fixed is an upcoming American adult animated comedy film produced by New Line Cinema, Columbia Pictures, and Sony Pictures Animation, and distributed by Warner Bros. Pictures in North America and Sony Pictures Releasing International overseas. It is directed and produced by Genndy Tartakovsky, from a screenplay he co-wrote with Jon Vitti. The film stars the voices of Adam DeVine, Idris Elba, Kathryn Hahn, Bobby Moynihan, Beck Bennett, River Gallo, and Michelle Buteau. Its story follows a blue bloodhound named Bull, who discovers he is going to be neutered in the morning. This will be Sony Pictures Animation's first adult animated film, the studio's first film to feature the involvement of another film studio, as well as its first film to utilize hand-drawn traditional animation under the service of Renegade Animation, who was well-known for the production of \"Hi Hi Puffy AmiYumi\".",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Speak No Evil (2024 film)  - Wikipedia> Speak No Evil is an upcoming American psychological horror-thriller film written and directed by James Watkins. It is a remake of the 2022 Danish film of the same name. The film stars James McAvoy, Mackenzie Davis, and Scoot McNairy. Jason Blum serves as a producer through his Blumhouse Productions banner. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Mascot (film)  - Wikipedia> The Mascot (French: La mascotte) is a 1935 French musical comedy film directed by L\u00e9on Mathot and starring Lucien Baroux, Germaine Roger and Th\u00e9r\u00e8se Dorny. It is based on the 1880 Op\u00e9ra comique of the same title. It was shot at the Billancourt Studios in Paris. The film's sets were designed by the art director Pierre Schild, while the costumes were created by Georges Annenkov.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Gumraah (2023 film)  - Wikipedia> Gumraah is a 2023 Indian Hindi-language action thriller film directed by Vardhan Ketkar and produced by T-Series Films and Murad Khetani's Cine1 Studios. The film stars Aditya Roy Kapur in a dual role along with Mrunal Thakur and Ronit Roy. It is a remake of the 2019 Tamil film \"Thadam\". It revolves around a murder investigation which becomes complicated after the police discover two lookalike suspects.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Swap (film)  - Wikipedia> Swap is a 2015 Philippine crime drama film written and directed by Remton Siega Zuasola. The film stars Dionne Monsanto, Matt Daclan, Mon Confiado, RK Bagatsing, Jess Mendoza and Ligaya Rabago. It was one of the entries in the 2015 Sinag Maynila Film Festival.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Lady of the Camellias (1934 film)  - Wikipedia> The Lady of the Camellias (French: La dame aux cam\u00e9lias) is a 1934 French historical romantic drama film directed by Fernand Rivers and Abel Gance and starring Yvonne Printemps, Pierre Fresnay and Jane Marken. It is based on the 1848 novel \"The Lady of the Camellias\" by Alexandre Dumas fils. The film's sets were designed by the art directors Henri M\u00e9nessier and Ren\u00e9 Renoux.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Beekeeper (2024 film)  - Wikipedia> The Beekeeper is an upcoming American action film directed by David Ayer and written by Kurt Wimmer. It stars Jason Statham, Jeremy Irons, Emmy Raver-Lampman, Bobby\u00a0Naderi, and Josh Hutcherson. It is set to be released theatrically by Metro-Goldwyn-Mayer on an unspecified date.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<2023 Toronto International Film Festival  - Wikipedia> The 48th annual Toronto International Film Festival was held from September 7 to 17, 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mist (1967 film)  - Wikipedia> Mist (also known as Angae and The Foggy Town) is a 1967 drama film about a businessman, Yun Gi-jun (played by Sung-il Shin), who married into wealth and lives in Seoul, travels back to Mujin, his hometown. He embarks on a love affair with the local music teacher Ha In-suk (played by Yun Jeong-hie) and starts questioning his life choices.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Joy Cinema and Pub  - Wikipedia> The Joy Cinema and Pub, formerly known as the Joy Theater, is a single-screen repertory cinema located in Tigard, Oregon.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Fallen Leaves (film)  - Wikipedia> Fallen Leaves is a 2023 Finnish-German comedy-drama film written and directed by Aki Kaurism\u00e4ki. It is Kaurism\u00e4ki's 20th full-length film and a continuation of his \"Proletariat\" series, which was originally planned as a trilogy and already includes \"Shadows in Paradise\" (1986), \"Ariel\" (1988), and \"The Match Factory Girl\" (1990). Alma P\u00f6ysti and Jussi Vatanen star in the main roles. The film is produced by Sputnik and Bufo.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Faraaz (film)  - Wikipedia> Faraaz is a 2022 Indian Hindi-language biographical thriller film directed by Hansal Mehta and produced by T-Series and Benaras Media Works. The film supporting an ensemble cast has Juhi Babbar, Aamir Ali, Aditya Rawal, Zahan Kapoor, Jatin Sarin, Pallak Lalwani, and six newcomers Jatin Sarin, Reshham Sahaani, Ninaad Bhatt, Harshal Pawar, Sachin Lalwani including Kapoor marking their debut. Based on actual event, it depicts the Holey Artisan Bakery, July 2016 Dhaka attack that shook Bangladesh. The film premiered at the BFI London Film Festival on 15 October 2022, and released in India on 3 February 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Aag Ka Darya (film)  - Wikipedia>  is a 1966 Pakistani black and white film, directed by Humayun Mirza. The dialogues and story writer was Riaz Shahid, with cinematography by Raza Mir. It stars Shamim Ara and Mohammed Ali in leading roles. An unofficial remake of the 1963 Hindi film \"Mujhe Jeene Do\", it revolves around a bandit and a dancing girl. The film features songs and milli naghmay by Noor Jehan, Naseem Begum, Mala Begum, Irene Parveen, Saleem Raza, Ahmad Rushdi and Masood Rana. is one of the few films for which the poetry is done by the renowned Urdu poet, Josh Malihabadi. Theatrically released on 24 January 1966, the film was a commercially successful film of the year, it was released. The film received praise due to its cinematography but was criticised for copied the plot, and is known for its Nigar Award-winning msuic and national songs. It became a landmark in Ali's career, establishing him as one of the leading actors of the Pakistani cinema.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Eureka (2023 film)  - Wikipedia> Eureka is a 2023 Argentina internationally co-produced drama film co-written and directed by Lisandro Alonso, starring Viggo Mortensen, Jos\u00e9 Mar\u00eda Yazpik and Chiara Mastroianni. The film is narrated by Eureka, a woman who became a migratory bird to create a connection between the years 1870 and 2019 and the United States, Mexico and the Amazon rainforest. It had its premium in Cannes Premiere section at the 2023 Cannes Film Festival on 19 May 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<List of premium large format cinema screens in the UK  - Wikipedia> This is a list of premium large format cinema screens in the UK, including IMAX, IMAX Grand Theatre (GT), Dolby Cinema, and in-house PLFs such as Superscreen (Cineworld), VueXtreme (Vue), iSense (Odeon) &amp; XPlus (Showcase).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Wife (2021 film)  - Wikipedia> The Wife is a 2021 Indian Hindi-language horror film directed by Sarmad Khan and starring Gurmeet Choudhary (in his lead debut) and Sayani Datta. The film was released on Zee5 in March 2021.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Out of Season (2023 film)  - Wikipedia> Out of Season is a 2023 French romantic drama film directed by St\u00e9phane Briz\u00e9, from a screenplay written by Briz\u00e9 and Marie Drucker.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Rebel (2022 film)  - Wikipedia> Rebel is a 2022 drama film written and directed by Adil El Arbi and Bilall Fallah. The film stars Aboubakr Bensaihi, Lubna Azabal, Amir El Arbi, Tara Abboud, and Younes Bouab. It focuses on the portrayal of a Muslim family torn apart over the future of its youngest member.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pasan Ko ang Daigdig (film)  - Wikipedia> Pasan Ko ang Daigdig is a 1987 Philippine drama film directed by National Artist Lino Brocka. The screenplay was written by Rene Villanueva and Orlando Nadres based on the comic book by Pablo S. Gomez. It stars Sharon Cuneta, Loretta Marquez, and Tonton Gutierrez. It was the first time Brocka and Cuneta worked together on a movie.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<2023 Cin\u00e9fest Sudbury International Film Festival  - Wikipedia> The 2023 edition of the Cin\u00e9fest Sudbury International Film Festival, the 35th edition in the event's history, took place from September 16 to 24, 2023 in Sudbury, Ontario, Canada. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<H2S (film)  - Wikipedia> H2S is a 1969 Italian dystopian-science-fiction film directed by Roberto Faenza. Although filmed in 1968 and officially released in 1969, the film was immediately banned in Italy, to be distributed only in 1971. Set in the near future, it portrays a student revolt in a dictatorship.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Get Gone (film)  - Wikipedia> Get Gone is a 2019 American slasher film directed by Michael Thomas Daniel, starring Lin Shaye, Weston Coppola Cage, Robert Miano, Bradley Stryker and Rico E. Anderson.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Limbo (2023 film)  - Wikipedia> Limbo is a 2023 Australian independent mystery-crime film directed by Ivan Sen and starring Simon Baker, Rob Collins, Natasha Wanganeen and Nicholas Hope. The film had its world premiere in competition at the 73rd Berlin International Film Festival, on 23 February 2023, where it competed for Golden Bear.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<O.Baby (film)  - Wikipedia> O.Baby is a 2023 Indian Malayalam-language action drama thriller film written and directed by Ranjan Pramod. The film features Dileesh Pothan as the title character, along with Raghunath Paleri in a prominent role. It is co-produced by Dileesh Pothan, Abhishek Sasidharan, and Pramod Thervarpalli under the banner of Turtle Wine Productions in association with Color Pencil Films and Pakal Films.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Austin Film Critics Association Awards 2022  - Wikipedia> The 18th Austin Film Critics Association Awards, honoring the best in filmmaking for 2022, were announced on January 10, 2023. The nominations were announced on January 3, 2023.\n\"Everything Everywhere All at Once\" led the nominations with eleven and also received the most awards with nine wins, including Best Film.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<19th Irish Film & Television Awards  - Wikipedia> The 19th Irish Film &amp; Television Academy Awards, also called the IFTA Film &amp; Drama Awards 2023 or the 20th Anniversary IFTA Awards, took place on 7 May 2023 and was hosted by Deirdre O'Kane in the new Dublin Royal Convention Centre, situated on Ship Street, close to Dublin Castle. It honoured Irish films and television drama released between 1 January 2022 and 11 March 2023. The nominations were announced on 6 March 2023. RT\u00c9 broadcast the ceremony and highlights from the IFTA Red Carpet; the awards ceremony and back stage was also distributed to over 120 news channels worldwide.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Rebound (2023 film)  - Wikipedia> Rebound is a 2023 South Korean sports drama film directed by Jang Hang-jun. Kim Eun-hee with Kwon Seong-hui wrote the screenplay based on the true story of basketball coach Kang Yang-hyeon and the Busan Jungang High School's 2012 run to the national championships final despite having only six players on its roster. The film stars Ahn Jae-hong as coach Kang and Lee Shin-young, Jeong Jin-woon and Jung Gun-joo as the players. It was released theatrically in South Korea on April 5, 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Samajavaragamana (film)  - Wikipedia> Samajavaragamana is a 2023 Indian Telugu-language comedy drama film directed by Ram Abbaraju, from a story written by Bhanu Bogavarapu. It is produced by Razesh Danda, under the banners, Ak Entertainments and Hasya Movies. It stars Sree Vishnu, Reba Monica John, Naresh, Srikanth Iyyengar, Vennela Kishore, Sudarshan, and Devi Prasad.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Tokyo Revengers (film)  - Wikipedia>  is a 2021 Japanese science fiction gangster film directed by Tsutomu Hanabusa and co-written by Izumi Takahashi. It is the live-action adaptation of the manga series of the same name created by Ken Wakui, which was also made into an anime series of the same name.The film stars Takumi Kitamura, Yuki Yamada, Yosuke Sugino, Mio Imada, Shotaro Mamiya and Ryo Yoshizawa.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Tapas Paul filmography  - Wikipedia> Tapas Paul was an Indian actor and politician who is known for his work in Bengali cinema. Winner of a Filmfare Award, Paul became one of the most successful actors of Bengali cinema during 1980s and 1990s. He is widely celebrated for his on-screen romantic image. He made successful romantic collaborations with actresses such as Mahua Roychoudhury, Debashree Roy, Satabdi Roy, Indrani Dutta and Rachana Banerjee. He made his debut in Tarun Majumdar's romantic drama \"Dadar Kirti\" (1980).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lioness (upcoming film)  - Wikipedia> Lioness is an upcoming British-Indian film directed and written by Kajri Babbar. The film will centre around two British-Punjabi women living in England a century apart. One of the stories is based on the life of Sophia Duleep Singh, the Princess of Punjab and one of the key leaders of the suffragette movement in the UK, and will be portrayed by Paige Sandhu. The other focuses on married immigrant Mehak, who lives in Southall in the 1990s, who will be portrayed by Aditi Rao Hydari.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<IRL (2019 film)  - Wikipedia> IRL is a 2019 American drama film directed by Ricardo Perez-Selsky and written by Chase Hinton. The film stars Hinton, Johanna Sol, Eric Roberts and Haskell V. Anderson III.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Neeyat (2023 film)  - Wikipedia> Neeyat is a 2023 Indian Hindi-language mystery film directed by Anu Menon. The film is produced by Vikram Malhotra under Abundantia Entertainment alongside Amazon Studios. It stars Vidya Balan with an ensemble cast including Ram Kapoor, Rahul Bose, Dipannita Sharma, Shashank Arora, Shahana Goswami, Neeraj Kabi and Amrita Puri. The film was released theatrically on 7 July 2023.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kolai (film)  - Wikipedia> Kolai is a 2023 Indian Tamil-language mystery-thriller film directed by Balaji K. Kumar. The film stars Vijay Antony, Ritika Singh, and Meenakshi Chaudhary. The film's music is composed by Girishh G. The film was released on 21 July 2023 and received mixed reviews from critics.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<38th Guadalajara International Film Festival  - Wikipedia> The 38th Guadalajara International Film Festival took place from June 3 to 9, 2023, in Guadalajara, Mexico. \"Heroic\" received the Mezcal Award while Costa Rican film \"I Have Electric Dreams\" won the Best Ibero-American Film award.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<International Master in Cinema Studies  - Wikipedia> IMACS (stylized as I/MA/C/S) is a network, initiated in 2006, of European and American research universities collaborating for research, student exchanges, seminars, publications and delivering the International Master in Cinema Studies, an international graduate programme in film studies that started in 2010. Together with the European Network for Cinema and Media Studies, IMACS also hosts lectures in the fields film and media studies. In 2023, IMACS consists of 17 member institutions in 10 countries.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<When I Get Home (short film)  - Wikipedia> When I Get Home is a 2019 American drama short film directed and edited by singer-songwriter Solange Knowles, who also starred in the film with Adam Jabari Davis and Jessica Figaro. Apart from Knowles', the film features contributions from filmmakers Alan Ferguson, Terence Nance and Ray Tintori, artists Jacolby Satterwhite, with additional contributions from artists Autumn Knight and Robert Pruitt.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Thugs (film)  - Wikipedia> Thugs is a 2023 Indian Tamil-language action drama film directed by Brinda and starring Hridhu Haroon, Anaswara Rajan, Bobby Simha, Munishkanth and R. K. Suresh &amp; in the lead roles. It is the remake of the Malayalam film \"Swathandriam Ardharathriyil\" (2018)\".\" It was released on 24 February 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Battle Stations (film)  - Wikipedia> Battle Stations is a 1956 American war film directed by Lewis Seiler and starring John Lund, William Bendix and Keefe Brasselle. It was produced and distributed by Columbia Pictures. It took inspiration from the 1944 documentary film \"The Fighting Lady\".",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Fanfic (film)  - Wikipedia> Fanfic is a 2023 Polish drama film directed by Marta Karwowska and written by Karwowska &amp; Grzegorz Jaroszuk. Starring Alin Szewczyk, Jan Ci\u0119ciara, and Dobromir Dymecki. It is a coming-of-age LGBT-related film based on the by Natalia Osi\u0144ska. It is notable as the first Polish film with a transgender actor, Alin Szewczyk, in the role of a transgender character. The film was released internationally on Netflix on 17 May 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Cash (2021 film)  - Wikipedia> Cash is a 2021 Indian Hindi-language comedy-drama film directed by Rishab Seth and produced by Vishesh Bhatt.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pandu (film)  - Wikipedia> Pandu is a 2021 Indian Marathi-language comedy drama film written and directed by Viju Mane and produced by Zee Studios. The film stars Bhalchandra Kadam, Kushal Badrike, Sonalee Kulkarni and Pravin Tarde in lead roles. It was theatrically released on 3 December 2021.\nRelease.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Bonus Track (film)  - Wikipedia> Bonus Track is an upcoming British musical coming-of-age romantic comedy film directed by Julia Jackman, in her feature directorial debut, based on an original story by Josh O'Connor, who also appears in the film, and Mike Gilbert, who wrote the screenplay.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Gulmohar (2023 film)  - Wikipedia> Gulmohar is a 2023 Indian Hindi-language drama film written and directed by Rahul V. Chittella. The film stars Sharmila Tagore, Manoj Bajpayee, Simran, Suraj Sharma, Amol Palekar, and Kaveri Seth, amongst others. It was released on Disney+ Hotstar OTT platform on 3 March 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Azrael (film)  - Wikipedia> Azrael is an upcoming American action-horror film directed by E.L. Katz from a script by Simon Barrett. The film stars Samara Weaving.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Forgotten Love (film)  - Wikipedia> Forgotten Love is a 2023 Polish film directed by Micha\u0142 Gazda. It is an adaptation of the novel \"Znachor\" by Tadeusz Do\u0142\u0119ga-Mostowicz with Leszek Lichota in the main character role. This is the third film adaptation of Do\u0142\u0119ga-Mostowicz's novel; the previous ones were created in 1937 and 1981.\nThe film was produced by Netflix. It premiered September 27, 2023, on Neflix, and on September 20-25, 2023, at pre-premiere screenings in Toru\u0144, Krasnystaw, Wa\u0142brzych, Kalisz, Lidzbark Warmi\u0144ski and Stargard in Poland.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Good Night (2023 film)  - Wikipedia> Good Night is a 2023 Indian Tamil-language romantic comedy film written and directed by Vinayak Chandrasekaran in his directorial debut. The film stars Manikandan and Meetha Raghunath in the lead roles with Ramesh Thilak, Raichal Rabecca, Balaji Sakthivel and Bagavathi Perumal portraying supporting roles. The film revolves around Mohan, an IT youngster, with a snoring problem and the troubles when the problem affects his life.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Anniversary (upcoming film)  - Wikipedia> Anniversary is an upcoming American thriller film directed by Jan Komasa and starring Diane Lane.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Witchboard (2024 film)  - Wikipedia> Witchboard is an upcoming American supernatural horror film directed by Chuck Russell, and co-written by Russell and Greg McKay. It is a remake of the 1986 film of the same name and stars Jamie Campbell Bower, Madison Iseman, Aaron Dominguez, Antonia Desplat and Charlie Tahan. The film is scheduled to be released on an undisclosed date in 2024.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Little Man (2015 film)  - Wikipedia> The Little Man is a Czech-Slovak stop-motion animated film directed by Radek Beran. It is based on a book called Velk\u00e1 cesta mal\u00e9ho p\u00e1na (Great Journey of the Little Man).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Ugram (film)  - Wikipedia> Ugram is a 2023 Indian Telugu-language action thriller film directed by Vijay Kanakamedala from a story written by Toom Venkat. It stars Allari Naresh and Mirnaa Menon in the lead roles. It marks the second collaboration of Naresh and Kanakamedala after \"Naandhi\" (2021). ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Beautiful Days (1935 film)  - Wikipedia> Beautiful Days (French: Les Beaux jours) is a 1935 French comedy film directed by Marc All\u00e9gret and starring Simone Simon, Jean-Pierre Aumont and Raymond Rouleau. The film's sets were designed by the art directors Jean d'Eaubonne and Lazare Meerson.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Noodles (film)  - Wikipedia> Noodles is a 2023 Indian Tamil-language thriller film written and directed by Madhankumar Dakshinamoorthy and produced by Pragna Arun Prakesh. The film features Harish Uthaman, Sheela Rajkumar, Madhankumar Dakshinamoorthy, Thirunavukkarasu, Aazhiya Senthilkumar, and Vasant Marimuthu.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<List of accolades received by Alice in Wonderland (2010 film)  - Wikipedia> \"Alice in Wonderland\" is a 2010 American period adventure fantasy film directed by Tim Burton from a screenplay written by Linda Woolverton and produced by Walt Disney Pictures. A live-action adaptation and reimagining of Lewis Carroll's works, the film stars Mia Wasikowska in the title role, with Johnny Depp, Anne Hathaway, Helena Bonham Carter, Crispin Glover, and Matt Lucas, while featuring the voices of Alan Rickman, Stephen Fry, Michael Sheen, and Timothy Spall.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Apartment (2023 film)  - Wikipedia> The Apartment (Spanish: El apartamento) is a 2023 Paraguayan horror film written, directed, co-produced and edited by Michael Kovich Jr. Starring Bruno Sosa and Andrea Quattrocchi accompanied with Fernando Abadie, Roberto Cardozo and Clotilde Cabral. It is about a man who wakes up and has no memory of his last days in his own apartment whose door is covered in chains and padlocks. It premiered on August 3, 2023, in Paraguayan theaters.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mushrooms (1995 film)  - Wikipedia> Mushrooms is a 1995 Australian comedy movie written and directed by Alan Madden.\nReception.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Teresa (2023 film)  - Wikipedia> Teresa is an upcoming drama film directed by Paula Ortiz based on the play \"La lengua en pedazos\" by Juan Mayorga starring Blanca Portillo and Greta Fern\u00e1ndez as the title character opposite to Asier Etxeandia, the Inquisitor.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Chowk (film)  - Wikipedia> Chowk is a 2023 Indian Marathi-language drama film directed by Devendra Gaikwad in his directorial debut and produced by Dilip Lalasaheb Patil under the banner of Anuradha Films. It stars Pravin Tarde, Sanskruti Balgude, Kiran Gaikwad, Upendra Limaye, Akshay Tanksale, Aritra Devendra Gaikwad, Snehal Tarde, Suresh Vishwakarma, and Ramesh Pardeshi. It was theatrically released on 2 June 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Taj Mahal (Pakistani film)  - Wikipedia> Taj Mahal is a Pakistani Urdu language film released on 22 December 1968. It is directed by S.T. Zaidi and was his first film in the country. Previously, he served as the assistant director of K. Asif's \"Mughal-e-Azam\" (1960). The film stars Mohammed Ali, Zeba, Habib, Yousuf Khan and Aliya. The music of the film was composed by Nisar Bazmi. A Box office hit, the film was released in December 1968.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<About Love (2019 film)  - Wikipedia> About Love is a 2019 Indian documentary film directed and edited by Archana Atul Phadke. Filmed over three years, the film follows three generations of the Phadke family living in the family home in southern Mumbai. It premiered at the 2019 Sheffield International Documentary Festival, where Phadke won the New Talent Award.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Heart of the Night (film)  - Wikipedia> Heart of the Night (, transliterated as \"Qalb al-Layl\") is an Egyptian film released on October 2, 1982. The film is directed by Atef El Tayeb, features a screenplay by Mohsen Zayed based on the novel of the same title by Naguib Mahfouz, and stars Nour El-Sherif, and Hala Sedki. The film adapts the novel's unconventional storytelling while hewing closely to the periods in which the narrator, Jaafar Ibrahim al-Sayed, set the tale. A metaphysical allegory, the film discusses man's endless search for safe harbor since his descent into the world with original sin and free will as his eternal burdens.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Blue Jean (film)  - Wikipedia> Blue Jean is a 2022 British drama film written and directed by Georgia Oakley, in her directorial debut. It stars Rosy McEwen, Kerrie Hayes and Lucy Halliday.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hani Hani (film)  - Wikipedia> Hani Hani is a 2008 Indian Kannada-language romantic drama film directed by Sharan and starring Tarun Chandra and Pooja Gandhi. The music for the film was composed by S. Chinna. The film was a box office failure.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Beneath the Skin (film)  - Wikipedia> Beneath the Skin is a 1981 short film created by Cecelia Condit. It follows a woman's thoughts and musings towards a recent incident in which she discovered that her boyfriend was hiding the body of his ex-girlfriend in his closet.\n\"Skin\" is based on a real-life incident that occurred in Condit's life when she dated Ira Einhorn, also known as the Unicorn Killer. Ira had murdered his ex-girlfriend, Holly Maddux, and hidden her corpse in his closet. Condit, who began dating Einhorn, never found Maddux's corpse due to being on medication that hindered her sense of smell.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Movie Emperor  - Wikipedia> The Movie Emperor is a 2023 Chinese film industry satire film directed by Ning Hao, produced by and starring Andy Lau. The film had its premiere at the 2023 Toronto International Film Festival in Gala Presentations section on September 15, 2023. It is also set as closing film of the 28th Busan International Film Festival to be screened on October 13, 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Martin (2023 film)  - Wikipedia> Martin is an upcoming Indian Kannada-language action thriller film directed by A. P. Arjun from a story written by Arjun Sarja. The film is produced by Uday K. Mehta. It stars Dhruva Sarja, Vaibhavi Shandilya, Anveshi Jain, Sukrutha Wagle, Achyuth Kumar and Nikitin Dheer.\nPremise.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Varaal (film)  - Wikipedia> Varaal is a 2022 Indian Malayalam-language political drama film written by Anoop Menon and directed by Kannan Thamarakulam and featuring Anoop Menon, Prakash Raj and Sunny Wayne in lead roles. It is produced by PA Sebastian under the banner of Time Ads Entertainment.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Melody (2023 film)  - Wikipedia> Melody (Persian: \u0645\u0644\u0648\u062f\u06cc) is a 2023 Tajik-Iranian mystery drama film written, directed, produced and edited by Behrouz Sebt Rasoul. It's about the music teacher Melody who wants to compose a heartfelt piece for children fighting cancer, using the sound of 30 birds. The film was selected as the Tajik entry for the Best International Feature Film at the 96th Academy Awards.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Immaculate (upcoming film)  - Wikipedia> Immaculate is an upcoming American psychological horror film directed by Michael Mohan and written by Andrew Lobel. It stars Sydney Sweeney, \u00c1lvaro Morte, Benedetta Porcaroli, Dora Romano, Giorgio Colangeli and Simona Tabasco.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<73rd Berlin International Film Festival  - Wikipedia> The 73rd annual Berlin International Film Festival, usually called the Berlinale, took place from 16 to 26 February 2023. It was the first completely in-person Berlinale since the 70th in 2020. The festival has added a new award for best television series this year. On 15 December 2022, the first Panorama and Generation titles for the festival were announced, and on 13 January 2023, many world premieres were added to out-of-competition lineup, including Israeli filmmaker Guy Nattiv's \"Golda\"\u2014a biographical film about Golda Meir, first female Prime Minister of Israel.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Shibpur (film)  - Wikipedia> Shibpur is a 2023 Indian Bengali-language political thriller drama film directed by Arindam Bhattacharjee and produced by Ajanta Sinha Roy under the banner of Indo American Production. The film staring Parambrata Chatterjee, Swastika Mukherjee, Mamata Shankar and Kharaj Mukherjee in lead roles.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Romford Film Festival  - Wikipedia> The Romford Film Festival is an independent film festival founded in 2017 by festival director Spencer Hawken. The festival takes place annually in Romford, United Kingdom and is hosted at Premiere Cinemas inside The Mercury Mall.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Unicorns (2023 British film)  - Wikipedia> UNICORNS is a drama film, directed by Sally El Hosaini and James Krishna Floyd and released in 2023. The film stars Ben Hardy as Luke, a single father and mechanic who is forced to rethink his sexual identity when he unexpectedly falls in love with Aysha (Jason Patel), a drag queen.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Strays (film)  - Wikipedia> The Strays is a 2023 British horror thriller film written and directed by Nathaniel Martello-White, in his directorial debut. In the film, Neve (Ashley Madekwe) is a biracial upper-class woman leading an idyllic life with her family. As a socialite in her community and the deputy headmistress of a private school, Neve's privileged life is jeopardized when her troubled past resurfaces to undermine everything she has built.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Talk to Me (2022 film)  - Wikipedia> Talk to Me is a 2022 Australian supernatural horror film directed by Danny and Michael Philippou and written by Danny Philippou and Bill Hinzman, based on a concept by Daley Pearson. It stars Sophie Wilde, Alexandra Jensen, Joe Bird, Miranda Otto, Zoe Terakes, Chris Alosio, Marcus Johnson, and Alexandria Steffensen. The film follows a group of teenagers who discover they are able to contact spirits using a mysterious embalmed hand, only for things to go too far.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Swan Song (2023 film)  - Wikipedia> Swan Song is a 2023 Canadian documentary film, directed by Chelsea McMullan. The film profiles National Ballet of Canada artistic director and former dancer Karen Kain as she directs a production of \"Swan Lake\" for the company as her final project before retiring.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dhoomam (2023 film)  - Wikipedia> Dhoomam, initially titled \"C10H14N2\", is an Indian Malayalam-language action thriller film written and directed by Pawan Kumar. The film was produced by Vijay Kiragandur under Hombale Films in their debut production in Malayalam cinema. It stars Fahadh Faasil and Aparna Balamurali, along with Roshan Mathew, Achyuth Kumar, Anu Mohan, and Vineeth. It was released on 23 June 2023 and opened to mixed reviews.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Cowards (2008 film)  - Wikipedia> Cowards is a 2008 Spanish bullying-themed drama film written and directed by and Juan Cruz which stars Eduardo Gar\u00e9 and Eduardo Espinilla.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Girls' Dormitory (1936 Austrian film)  - Wikipedia> Girls' Dormitory (German: M\u00e4dchenpensionat) is a 1936 Austrian drama film directed by G\u00e9za von Bolv\u00e1ry and starring Raoul Aslan, Angela Salloker and Erika von Thellmann. The film's sets were designed by the art director M\u00e1rton Vincze.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hammer (2019 film)  - Wikipedia> Hammer is a Canadian crime thriller film, directed by Christian Sparkes and released in 2019. The film stars Will Patton as Stephen Davis, a man in Sault Ste. Marie, Ontario, whose estranged son Chris (Mark O'Brien) double-crosses drug dealer Adams (Ben Cotton), forcing Stephen and Chris to reunite after Adams takes Stephen's younger sun Jeremy (Connor Price) hostage.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Magda (2004 film)  - Wikipedia> Magda is a 2004 stop motion animated short film by independent filmmaker Chel White, from a story written and read by monologist Joe Frank.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Gopi (2006 Kannada film)  - Wikipedia> Gopi is a 2006 Indian Kannada-language family drama film directed by G K Mudduraj and starring Murali and Gowri Munjal. The film is a remake of \"Murari\" (2001).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<1995 Australian Film Institute Awards  - Wikipedia> The 37th Australian Film Institute Awards (generally known as the AFI Awards) were held on 10 November 1995 in Melbourne. Presented by the Australian Film Institute (AFI), the awards celebrated the best in Australian feature film, documentary, short film and television productions of 1995. The ceremony was broadcast live on ABC and hosted by comedian Magda Szubanski. The nominations were announced on 9 August 1995. \"Hotel Sorrento\" received the most nominations in the feature film category with ten, while \"Halifax f.p.\" received fifteen nominations in the television category.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Mu\u00f1eca (film)  - Wikipedia> Mu\u00f1eca (; also known as Mu\u00f1eca, cuesti\u00f3n de sexo, ) is a 2008 Chilean drama film directed by Sebasti\u00e1n Arrau (in his directorial debut) and written by Arrau &amp; Fernando Arag\u00f3n. Starring Benjam\u00edn Vicu\u00f1a and Marcial Tagle. It won the Great Paoa awards for Best National Film and Best Leading Actor (National) for Marcial Tagle at the 20th Vi\u00f1a del Mar International Film Festival.\nSynopsis.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Prithvi Vallabh (1924 film)  - Wikipedia> Prithvi Vallabh (English: The Lord of Love and Power) was an 1924 Indian historical drama film directed by Manilal Joshi. It was based on the 1921 Gujarati novel \"Prithivivallabh\" by K. M. Munshi.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Gol Gappe (film)  - Wikipedia> Gol Gappe is a 2023 Indian Punjabi-language comedy film directed by Smeep Kang. It stars Binnu Dhillon, Rajat Bedi, Ihana Dhillon, Navneet Kaur Dhillon and B. N. Sharma. The film is produced under the banner of Zee Studios, Triflix Entertainment LLP, Janvi Productions, Soham Rockstar Entertainment. The film is a remake of 1989 Malayalam film \"Ramji Rao Speaking\".",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Carnivale (film)  - Wikipedia> Carnivale is a 1999 French-Irish animated film directed by Deane Taylor.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Beginning (2023 film)  - Wikipedia> Beginning is a 2023 Indian Tamil-language drama film directed by Jagan Vijaya and starring Vinoth Kishan, Gouri Kishan and Rohini in the lead roles. It was released on 26 January 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Okefenokee (film)  - Wikipedia> Okefenokee is a 1959 American black and white drama film directed by Roul Haig. The cast includes Peter Coe (born in Yugoslavia) in the main role (a Seminole G.I.), Henry Brandon and Serena Sande.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kalyanam Kamaneeyam (film)  - Wikipedia> Kalyanam Kamaneeyam is a 2023 Indian Telugu-language romantic comedy family drama film written and directed by debutant Anil Kumar Aalla. It is produced by UV Concepts, a subsidiary of UV Creations\".\" It features Santosh Sobhan and Priya Bhavani Shankar (in her Telugu debut) in the lead roles.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Brooke Shields filmography  - Wikipedia> American actress Brooke Christa Shields started her career as a child model and gained critical acclaim at age 12 for her leading role in Louis Malle's film \"Pretty Baby\" (1978). She continued to model into her late teenage years and starred in several dramas in the 1980s, including \"The Blue Lagoon\" (1980), and Franco Zeffirelli's \"Endless Love\" (1981).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Pulau (film)  - Wikipedia> Pulau is a 2023 Malaysian Malay-language supernatural horror film. It stars Alif Satar, Amelia Henderson, Sanjna Suri and Ms. Puiyi. Its story follows a group of friends who stay on a deserted island and awaken a vengeful spirit.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Sacramento (upcoming film)  - Wikipedia> Sacramento is an upcoming American comedy road trip film directed by Michael Angarano, who wrote the screenplay with Chris Smith. It stars Angarano, Michael Cera, Kristen Stewart and Maya Erskine.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Goodrich (film)  - Wikipedia> Goodrich is an upcoming American comedy film written and directed by Hallie Meyers-Shyer. The film stars Michael Keaton and Mila Kunis.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Vimanam (2023 film)  - Wikipedia> Vimanam is a 2023 Indian Telugu-language drama film written and directed Siva Prasad Yanala. It features Samuthirakani and Master Dhruvan in lead roles It was produced by Kiran Korrapati and Zee Studios.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<The Kitchen (2023 film)  - Wikipedia> The Kitchen is an upcoming British science fiction drama film directed by Kibwe Tavares and Daniel Kaluuya. The film stars Kane Robinson, Jedaiah Bannerman, Hope Ikpoku Jr, Teija Kabs, Demmy Ladipo, Cristale, and BackRoad Gee.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nothing But Lies (1933 film)  - Wikipedia> Nothing But Lies (French: Rien que des mensonges) is a 1933 French comedy film directed by Karl Anton and starring Robert Burnier, Marguerite Moreno and Jackie Monnier. It was produced by the French subsidiary of Paramount Pictures at the Joinville Studios in Paris. The film's costumes were designed by Ren\u00e9 Hubert.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Circus Maximus (film)  - Wikipedia> Circus Maximus is a 2023 American musical anthology film co-written, executive produced, and directed by Travis Scott. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Joy to the World (film)  - Wikipedia> Joy to the World is an upcoming Christmas film starring Timothy Spall and James Nesbitt. It is written by Ronan Blaney, directed by Edward Hall, and produced by Calico Pictures and Studio Hamburg.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Dada Lakhmi (film)  - Wikipedia> Dada Lakhmi is a 2022 Indian Haryanvi language Biographical film based on the musical journey of Haryanvi folk singer Lakhmi Chand also known as Kalidas of Haryana. The film is written and directed by Yashpal Sharma. The lead actors in the film are Yashpal Sharma, Meghna Malik and Rajendra Gupta. The film was released on 8 November 2022. The film has been awarded the 'National Film Award' by the President as the best Haryanvi film.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Electra (2023 film)  - Wikipedia> Electra is a Czech short film, directed by Daria Kashcheeva and released in 2023. Blending live action and animation, the film revisits the theme of father-daughter relationships first explored in her 2019 film \"Daughter\", portraying the experiences of a woman who is recalling her strained and distant relationship with her father.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Sleeping Dogs (upcoming film)  - Wikipedia> Sleeping Dogs is an upcoming film starring Russell Crowe and Karen Gillan. It is based on the E.O. Chirovici novel \"The Book of Mirrors\" (2017) which was adapted by Adam Cooper and Bill Collage and produced by Nickel City Pictures. The film marks Adam Cooper's feature length directorial debut.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Nowhere (2023 film)  - Wikipedia> Nowhere is a 2023 survival thriller film directed by from a screenplay by Ernest Riera, Miguel Ruz, Indiana Lista, Seanne Winslow, and Teresa Rosendoy which stars Anna Castillo alongside Tamar Novas.\nPlot.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Hostel (film series)  - Wikipedia> The Hostel film series consists of American splatter-horror films, including two theatrical movies, and one straight-to-home release film. Created by Eli Roth, the plot centers around a Slovakian Criminal Organization that lures innocent foreigners into their hostels, where wealthy sadists bid upon them for torture and murder. Over the course of the films, the hierarchy of the cult group is revealed to operate internationally.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Honeymoon (1935 film)  - Wikipedia> Honeymoon (French: Lune de miel) is a 1935 French comedy film directed by Pierre-Jean Ducis and starring Albert Pr\u00e9jean, Janine Merrey and F\u00e9lix Oudart.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Circle (2023 film)  - Wikipedia> Circle is a 2023 Indian Telugu-language film directed by Neelakanta. The music is scored by NS. Prasu, cinematography by Ranganath Gogineni. It is produced by M V Sharat Chandra, Venu Babu Addagada, and T Sumalatha Annith Reddy under the Aura Productions banner. The lead roles are played by Sai Ronak, Baba Bhaskar, Richa Panai, and Arshi Mehta. The film was released worldwide theatrically on 7 July 2023.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Filmfare Awards Bangla  - Wikipedia> Filmfare Awards Bangla is the Bengali segment of the annual Filmfare Awards, presented by The Times Group to honour the artistic and cinematic excellence in Bengali. The first installment of the awards were held for Bengali, Assamese and Odia films in a ceremony on 29 March 2014. The award ceremony was discontinued for Two Times respectively 2013, 2015 and 2016, then again continued from 2017 and now only given to Bengali Film Industry.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Untitled fourth The Strangers film  - Wikipedia> The fouth \"The Strangers\" film is an upcoming American slasher film directed by Renny Harlin, and written by Alan R. Cohen and Alan Freedland. It is the fourth film in \"The Strangers\" film series. The film stars Madelaine Petsch, Froy Gutierrez, and Rachel Shenton. ",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Richelieu (2023 film)  - Wikipedia> Richelieu, also released as Temporaries in some territories, is a Canadian drama film, directed by Pier-Philippe Chevigny and released in 2023. The film stars Ariane Castellanos as Ariane, a woman who is hired as a Spanish-French translator at a food processing plant in Quebec that has a large staff of temporary migrant workers from Guatemala, but becomes an ally and advocate for the workers as she realizes the need to defend them from abuse and exploitation by owner St\u00e9phane (Marc-Andr\u00e9 Grondin).",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Metanoia (2021 short film)  - Wikipedia> Metanoia is a 2021 Mexican English-language sci-fi/LGBTQ short film. It was directed by Moran Avni, produced by Ariel Lavi and written by David Alejandro Gigena Kazimierczak. The short stars Jessica Decote, Laura Di Luca, and Carlos Hendrick.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Kousalya Supraja Rama (2023 film)  - Wikipedia> Kousalya Supraja Rama is a 2023 Kannada-language comedy drama film directed and produced by Shashank, written by Yadunandan. The film stars Darling Krishna, Brinda Acharya and Milana Nagaraj in the lead roles.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Lena (film)  - Wikipedia> Lena is a 2001 Spanish-Portuguese coming-of-age drama film directed by Gonzalo Tapia which stars Marta Larralde as the title character alongside Manuel Manqui\u00f1a and Roberto \u00c1lvarez.",
+      "task": "test_pure_evidence"
+    },
+    {
+      "text": "",
+      "output": "<Walt Disney Animation Studios short films (2000\u2013present)  - Wikipedia> This is a list of short films created by Walt Disney Animation Studios after the year 2000.",
+      "task": "test_pure_evidence"
+    }
+  ]
+}
